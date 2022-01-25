@@ -1,0 +1,15 @@
+{
+  "abi": [
+    {
+      "inputs": [{ "internalType": "bytes", "name": "inputData", "type": "bytes" }],
+      "name": "combine",
+      "outputs": [
+        { "internalType": "bytes", "name": "", "type": "bytes" },
+        { "internalType": "bytes", "name": "", "type": "bytes" },
+        { "internalType": "bytes", "name": "", "type": "bytes" }
+      ],
+      "stateMutability": "view",
+      "type": "function"
+    }
+  ]
+}
