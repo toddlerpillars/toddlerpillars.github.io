@@ -1,7 +1,6 @@
 {
-    "name": "ethercards",
+    "name": "toddlerpillars",
     "version": "0.1.0",
-    "private": true,
     "homepage": "/",
     "dependencies": {
         "@emotion/react": "^11.7.1",
@@ -16,7 +15,7 @@
         "ec-commons": "git+https://github.com/ethercards/ec-commons.git",
         "eslint-plugin-jsx-a11y": "^6.4.1",
         "ethers": "^5.5.3",
-        "gh-pages": "^3.1.0",
+        "gh-pages": "^3.2.3",
         "prop-types": "^15.8.1",
         "rc-resize-observer": "^1.0.1",
         "react": "^17.0.2",

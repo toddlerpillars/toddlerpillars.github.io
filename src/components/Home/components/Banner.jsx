@@ -137,12 +137,15 @@ const sx = {
 	},
 };
 
-const HEADER_TEXT = `Through a ragged hole in reality crawl 9,999 Toddlerpillar NFTs generated
-from 888 mind-bending traits, including 60 ultra-rare 1/1s! Toddlerpillar
-holders gain access to global gatherings, vinyl collectables, and exclusive
-airdrops. With plans to release an animated series and blockchain-based
-game, we invite you to join us at the forefront of art and technology as we
-voyage into the untamed wilds of Web3.`;
+const HEADER_TEXT = `Through a ragged hole in reality crawl 9,999 Toddlerpillar NFTs generated 
+from 888 mind-bending traits, including 60 ultra-rare 1/1s! The project extends the 20 year history 
+of artist and gallerist Jon Beinart\'s renowned Toddlerpillar doll sculptures, imbuing them with new 
+psychedelic energy from award-winning artist and madman, Tim Molloy.`;
+
+const HEADER2_TEXT = `Toddlerpillar holders join an interdimensional art collective with access to 
+global gatherings and exclusive airdrops. With a long term vision to expand the Toddlerpillar brand into an animated series & vinyl collectables, we 
+invite you to join us at the forefront of art and technology as we voyage into the untamed wilds of 
+Web3.`
 
 const DISCORD_TEXT = 'Join our delightfully strange discord family!';
 
@@ -223,6 +226,8 @@ const Banner = () => {
 					<Typography variant='heading1' sx={sx.title}>Toddlerpillars NFT Collection</Typography>
 					{vertical && <Divider titleDivider />}
 					<Typography variant='text' sx={{ ...sx.text1, mb: 2 }}>{HEADER_TEXT}</Typography>
+					
+					<Typography variant='text' sx={{ ...sx.text1, mb: 2 }}>{HEADER2_TEXT}</Typography>
 
 					{!mainSaleStarted
 						&& (

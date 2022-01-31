@@ -2,10 +2,10 @@ import Web3Ctx from "../components/Context/Web3Ctx";
 import { useMemo, useContext } from 'react'
 import { getContract } from '../utils'
 
-import ZOOM_ABI from '../abi/Zoom.json'
-import EC_ABI from '../abi/EtherCards.json'
-import TODDLER_COMMUNITY_ABI from '../abi/ToddlerCommunity.json'
-import TODDLER_SALE_ABI from '../abi/SkeletonCrew.json'
+import { abi as ZOOM_ABI } from '../abi/Zoom.json'
+import { abi as EC_ABI } from '../abi/EtherCards.json'
+import { abi as TODDLER_COMMUNITY_ABI } from '../abi/ToddlerCommunity.json'
+import { abi as TODDLER_SALE_ABI } from '../abi/SkeletonCrew.json'
 
 import {
     ZOOM_ADDRESSES,

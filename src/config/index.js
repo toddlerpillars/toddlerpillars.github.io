@@ -13,7 +13,7 @@ const dev = {
 const prod = {
     DEPLOYED_NTW_NAME: 'mainnet',
     DEPLOYED_CHAIN_ID: 1,
-    INFURA_ID: 'a5e79e6ee9a14236b385e47849805596',
+    INFURA_ID: '2cbb379501754b1f9e8d69ec51d3f206',
     FORTMATIC_KEY: 'pk_live_FBFF1F05F2879F29',
     //RPC_URL: 'https://mainnet.infura.io/v3/0a0bbd3ce4ea4be5ad706514cf2cd8cc',
     //RPC_URL: 'https://icy-weathered-glade.quiknode.pro/74e3e2900f41260b429e8ac065b8bee720298c94/',
