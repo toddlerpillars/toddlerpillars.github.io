@@ -223,7 +223,7 @@ const Banner = () => {
 			</Box>
 			<Box sx={sx.content}>
 				<Box sx={sx.col}>
-					<Typography variant='heading1' sx={sx.title}>Toddlerpillars NFT Collection</Typography>
+					<Typography variant='heading1' sx={sx.title}>Toddlerpillars & Chimerapillars</Typography>
 					{vertical && <Divider titleDivider />}
 					<Typography variant='text' sx={{ ...sx.text1, mb: 2 }}>{HEADER_TEXT}</Typography>
 					

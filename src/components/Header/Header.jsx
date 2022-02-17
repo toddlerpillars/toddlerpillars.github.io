@@ -284,8 +284,8 @@ const sx = {
 	},
 };
 
-const BUTTONS = ['Home', 'About', 'Roadmap', 'My Collection', 'Rarity', 'Opensea'];
-const MOBILEBUTTONS = ['Home', 'About', 'Roadmap', 'My Collection', 'Rarity', 'Opensea'];
+const BUTTONS = ['Home', 'About', 'Roadmap', 'My Collection', 'Rarity', 'OpenSea'];
+const MOBILEBUTTONS = ['Home', 'About', 'Roadmap', 'My Collection', 'Rarity', 'OpenSea'];
 const PATHS = ['/', '/about', '/roadmap', '/collections', null, null];
 const DROPMENU = ['About Toddlerpillars', 'Mythology', 'History'];
 const DROPMENUPATHS = ['/about', '/mythology', '/history'];
@@ -403,10 +403,10 @@ const Header = () => {
 									</a>
 								);
 							}
-							if (btn === 'Opensea') {
+							if (btn === 'OpenSea') {
 								return (
 									<a href={urlOpensea} style={{ textDecoration: 'none' }} target='_blank' rel='noopener noreferrer'>
-										<HeaderButton key={btn} text='Opensea' vertical />
+										<HeaderButton key={btn} text='OpenSea' vertical />
 									</a>
 								);
 							}
@@ -477,10 +477,10 @@ const Header = () => {
 										</a>
 									);
 								}
-								if (btn === 'Opensea') {
+								if (btn === 'OpenSea') {
 									return (
 										<a href={urlOpensea} style={{ textDecoration: 'none' }} target='_blank' rel='noopener noreferrer'>
-											<HeaderButton key={btn} text='Opensea' vertical />
+											<HeaderButton key={btn} text='OpenSea' vertical />
 										</a>
 									);
 								}

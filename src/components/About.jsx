@@ -38,7 +38,7 @@ const TEXT2 = [
 	+ 'Toddlerpillars. So many of their ideas have been incorporated into the project that they have become more like a hive mind of collaborators than a community of fans.',
 	'Jon and Tim have developed a backstory/mythology for the Toddlerpillars, which finds our little friends in a parallel universe that is set to collide with '
 	+ 'our own. The project has a detailed roadmap which extends way beyond the mint, with a PFP collection of companion creatures, The Chimerapillars, a series of '
-	+ 'vinyl toys, metaverse integration, gamification, an animated series, token holder meetups in Australia and the USA and much more!'];
+	+ 'vinyl toys, metaverse integration, an animated series, token holder meetups in Australia and the USA and much more!'];
 
 const galeryurl = 'https://beinart.org/';
 const jurl = 'https://beinart.org/pages/jon-beinart';
