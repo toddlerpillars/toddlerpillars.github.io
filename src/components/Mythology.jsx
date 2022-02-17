@@ -70,13 +70,13 @@ const chapter1_2 = [
 	'There was one thing though, that even those ancient warlocks of old did not know, nor could have guessed in their wildest hallucinations. The Stranger had '
 	+ 'hidden a secret within the Sculptures. A ticking time bomb of quantum artifice that lay hidden in the very heart of them. Through weird multi-dimensional '
 	+ 'mechanics and Synthetic Sorcery, the Stranger had created the conditions for an entirely New World to be born.',
-	'Through some strange coalescence of Human Consciousness and the Alien Plastic of the Sculptures, THE ORPHANAGE DIMENSION was born!',
+	'Through some strange coalescence of Human Consciousness and the Alien Plastic of the Sculptures, the Orphanage Dimension was born!',
 	'And now, The Cosmic Spheres have aligned and The Orphanage Dimension has collided with our own! Through a ragged hole in reality, crawl the descendants of '
-	+ 'the Sculptures - THE TODDLERPILLARS! Although the weird matter and bizarre physics of our own World have caused strange mutations in them, DO NOT BE AFRAID! '
+	+ 'the Sculptures - the Toddlerpillars! Although the weird matter and bizarre physics of our own World have caused strange mutations in them, do not be afraid! '
 	+ 'They just want to be loved and are harmless... mostly harmless, that is.',
 	'Adopt one now before their Demonic Caretakers shut them back up into their gloomy and infinite prison. Adopt one now and help the Stranger bring his vision '
 	+ 'of a New Age into a glorious birthing of adorable multi-limbed madness!',
-	'Adopt one now, OR BE DAMNED!'];
+	'Adopt one now, or be damned!'];
 
 const chapter2_1 = [
 	'They were strange, dark days indeed at the end of the Old Age. A great plague had swept the land, and the very seasons had come unhitched from the usual cycle. Summer lingered into sticky autumn, and winter seemed to never end, finally giving way to half-hearted spring, devoid of the life that should have bloomed as in saner times.',
@@ -131,23 +131,36 @@ const Mythology = () => {
 			</Box>
 			<Typography variant='heading1' sx={sx.title}>TODDLERPILLARS MYTHOLOGY</Typography>
 			<Divider titleDivider />
-			<Typography variant='heading2' sx={sx.subtitle}>Chapter 1</Typography>
 			<Box sx={sx.textContainer}>
 				<Box sx={sx.textCol}>
+					<Typography variant='heading2' sx={sx.subtitle}>Chapter 1</Typography>
 					<Paragraph text={chapter1_1} />
 				</Box>
 				<Box sx={sx.textCol}>
+					<br />
 					<Paragraph text={chapter1_2} />
 				</Box>
 			</Box>
 			<br />
-			<Typography variant='heading2' sx={sx.subtitle}>Chapter 2</Typography>
 			<Box sx={sx.textContainer}>
 				<Box sx={sx.textCol}>
+					<Typography variant='heading2' sx={sx.subtitle}>Chapter 2</Typography>
 					<Paragraph text={chapter2_1} />
 				</Box>
 				<Box sx={sx.textCol}>
+					<br />
 					<Paragraph text={chapter2_2} />
+				</Box>
+			</Box>
+			<br />
+			<Box sx={sx.textContainer}>
+				<Box sx={sx.textCol}>
+					<Typography variant='heading2' sx={sx.subtitle}>Chapter 3</Typography>
+					<Paragraph text="Coming soon..." />
+				</Box>
+				<Box sx={sx.textCol}>
+					<br />
+					<Paragraph text="" />
 				</Box>
 			</Box>
 			<Discord />
