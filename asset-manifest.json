@@ -37,8 +37,8 @@
     "static/js/17.916804e3.chunk.js": "/static/js/17.916804e3.chunk.js",
     "static/js/17.916804e3.chunk.js.map": "/static/js/17.916804e3.chunk.js.map",
     "main.css": "/static/css/main.1e312594.chunk.css",
-    "main.js": "/static/js/main.51c2f24e.chunk.js",
-    "main.js.map": "/static/js/main.51c2f24e.chunk.js.map",
+    "main.js": "/static/js/main.cf33be6e.chunk.js",
+    "main.js.map": "/static/js/main.cf33be6e.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.03aaca1c.js",
     "runtime-main.js.map": "/static/js/runtime-main.03aaca1c.js.map",
     "static/js/20.ef217837.chunk.js": "/static/js/20.ef217837.chunk.js",
@@ -207,6 +207,7 @@
     "static/media/index.css": "/static/media/Roboto-Regular.a8d6ac03.ttf",
     "static/media/App.css": "/static/media/Teko-SemiBold.3374e10e.ttf",
     "static/media/Tim-Molloy.14c8602d.png": "/static/media/Tim-Molloy.14c8602d.png",
+    "static/media/Toddlerpillars-Logo.658d032e.png": "/static/media/Toddlerpillars-Logo.658d032e.png",
     "static/media/arm1.293c4595.png": "/static/media/arm1.293c4595.png",
     "static/media/arm1.731017a0.png": "/static/media/arm1.731017a0.png",
     "static/media/arm1.90e7cff7.png": "/static/media/arm1.90e7cff7.png",
@@ -237,7 +238,6 @@
     "static/media/menu.c1c2e540.svg": "/static/media/menu.c1c2e540.svg",
     "static/media/slider-next.a95efaeb.svg": "/static/media/slider-next.a95efaeb.svg",
     "static/media/slider-prev.2ab0626c.svg": "/static/media/slider-prev.2ab0626c.svg",
-    "static/media/toddlerpillars_logo.feda650c.svg": "/static/media/toddlerpillars_logo.feda650c.svg",
     "static/media/tp01.1666af24.jpg": "/static/media/tp01.1666af24.jpg",
     "static/media/tp02.73106357.jpg": "/static/media/tp02.73106357.jpg",
     "static/media/tp03.d420eab0.jpg": "/static/media/tp03.d420eab0.jpg",
@@ -262,6 +262,6 @@
     "static/js/runtime-main.03aaca1c.js",
     "static/js/20.ef217837.chunk.js",
     "static/css/main.1e312594.chunk.css",
-    "static/js/main.51c2f24e.chunk.js"
+    "static/js/main.cf33be6e.chunk.js"
   ]
 }
