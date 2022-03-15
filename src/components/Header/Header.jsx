@@ -13,7 +13,7 @@ import menu from '../../assets/images/menu.svg';
 import close from '../../assets/images/close.svg';
 import HeaderButton from './components/HeaderButton';
 import SocialButton from '../common/SocialButton';
-import logo from '../../assets/images/toddlerpillars_logo.svg';
+import logo from '../../assets/images/Toddlerpillars-Logo.png';
 
 const BP1 = '@media (max-width: 999px)';
 const BP2 = '@media (max-width: 530px)';
@@ -230,7 +230,7 @@ const sx = {
 		},
 	},
 	logo: {
-		width: '209px',
+		width: '150px',
 		height: '100%',
 		display: 'flex',
 		justifyContent: 'center',
@@ -284,13 +284,14 @@ const sx = {
 	},
 };
 
-const BUTTONS = ['Home', 'About', 'Roadmap', 'My Collection', 'Rarity', 'OpenSea'];
-const MOBILEBUTTONS = ['Home', 'About', 'Roadmap', 'My Collection', 'Rarity', 'OpenSea'];
-const PATHS = ['/', '/about', '/roadmap', '/collections', null, null];
+const BUTTONS = ['About', 'Roadmap', 'Hi-res', 'Rarity', 'OpenSea', 'Merch'];
+const MOBILEBUTTONS = ['About', 'Roadmap', 'Hi-res', 'Rarity', 'OpenSea', 'Merch'];
+const PATHS = ['/about', '/roadmap', '/collections', null, null, null];
 const DROPMENU = ['About Toddlerpillars', 'Mythology', 'History'];
 const DROPMENUPATHS = ['/about', '/mythology', '/history'];
 const urlRarity = 'https://rarity.tools/toddlerpillars';
 const urlOpensea = 'https://opensea.io/collection/toddlerpillars';
+const urlMaddies = 'https://maddies.co/official/toddlerpillars/'
 
 const Header = () => {
 	const {
@@ -410,13 +411,20 @@ const Header = () => {
 									</a>
 								);
 							}
+							if (btn == 'Merch'){
+								return (
+									<a href={urlMaddies} style={{ textDecoration: 'none' }} target='_blank' rel='noopener noreferrer'>
+										<HeaderButton key={btn} text='Merch' vertical />
+									</a>
+								);
+							}
 							return (<HeaderButton key={btn} text={btn} active={activeTab === i} onClick={() => handleNavigation(i)} vertical />);
 						})}
 					</Box>
 
 					<Box sx={sx.mobileLogoContainer}>
 						<Box sx={sx.logo}>
-							<img src={logo} style={{ width: '100%' }} alt='Logo' />
+							<a href="/"><img src={logo} style={{ width: '100%' }} alt='Logo' /></a>
 						</Box>
 					</Box>
 					<Box sx={sx.socialButtonContainer}>
@@ -481,6 +489,13 @@ const Header = () => {
 									return (
 										<a href={urlOpensea} style={{ textDecoration: 'none' }} target='_blank' rel='noopener noreferrer'>
 											<HeaderButton key={btn} text='OpenSea' vertical />
+										</a>
+									);
+								}
+								if (btn == 'Merch'){
+									return (
+										<a href={urlMaddies} style={{ textDecoration: 'none' }} target='_blank' rel='noopener noreferrer'>
+											<HeaderButton key={btn} text='Merch' vertical />
 										</a>
 									);
 								}

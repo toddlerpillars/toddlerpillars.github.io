@@ -11,20 +11,18 @@ import Checkout from './Checkout';
 import SocialButton from '../../common/SocialButton';
 
 import tp1 from '../../../assets/images/carousel/tp01.jpg';
+import cp1 from '../../../assets/images/carousel/cp02.jpg';
 import tp2 from '../../../assets/images/carousel/tp13.jpg';
+import cp2 from '../../../assets/images/carousel/cp04.jpg';
 import tp3 from '../../../assets/images/carousel/tp11.jpg';
-import tp4 from '../../../assets/images/carousel/tp04.jpg';
-import tp5 from '../../../assets/images/carousel/tp05.jpg';
-import tp6 from '../../../assets/images/carousel/tp06.jpg';
-import tp7 from '../../../assets/images/carousel/tp07.jpg';
-import tp8 from '../../../assets/images/carousel/tp08.jpg';
-import tp9 from '../../../assets/images/carousel/tp09.jpg';
-import tp10 from '../../../assets/images/carousel/tp10.jpg';
-import tp11 from '../../../assets/images/carousel/tp12.jpg';
-import tp12 from '../../../assets/images/carousel/tp02.jpg';
-import tp13 from '../../../assets/images/carousel/tp14.jpg';
-import tp14 from '../../../assets/images/carousel/tp15.jpg';
-import tp15 from '../../../assets/images/carousel/tp03.jpg';
+import cp3 from '../../../assets/images/carousel/cp06.jpg';
+import tp4 from '../../../assets/images/carousel/tp12.jpg';
+import cp4 from '../../../assets/images/carousel/cp01.jpg';
+import tp5 from '../../../assets/images/carousel/tp02.jpg';
+import cp5 from '../../../assets/images/carousel/cp05.jpg';
+import tp6 from '../../../assets/images/carousel/tp15.jpg';
+import cp6 from '../../../assets/images/carousel/cp03.jpg';
+
 
 const BP1 = '@media (max-width: 1079px)';
 const BP2 = '@media (max-width: 1480px) and (min-width:1199px)';
@@ -149,7 +147,7 @@ Web3.`
 
 const DISCORD_TEXT = 'Join our delightfully strange discord family!';
 
-const IMAGES = [tp1, tp2, tp3, tp4, tp5, tp6, tp7, tp8, tp9, tp10, tp11, tp12, tp13, tp14, tp15];
+const IMAGES = [tp1, cp1, tp2, cp2, tp3, cp3, tp4, cp4, tp5, cp5, tp6, cp6];
 
 const url = 'https://discord.gg/toddlerpillars';
 
@@ -223,32 +221,39 @@ const Banner = () => {
 			</Box>
 			<Box sx={sx.content}>
 				<Box sx={sx.col}>
-					<Typography variant='heading1' sx={sx.title}>Toddlerpillars & Chimerapillars</Typography>
+					<Typography variant='heading2' sx={sx.title}>Toddlerpillars & Chimerapillars</Typography>
 					{vertical && <Divider titleDivider />}
 					<Typography variant='text' sx={{ ...sx.text1, mb: 2 }}>{HEADER_TEXT}</Typography>
 					
 					<Typography variant='text' sx={{ ...sx.text1, mb: 2 }}>{HEADER2_TEXT}</Typography>
 
-					{!mainSaleStarted
+					{/* {!mainSaleStarted
 						&& (
 							<Typography variant='text' sx={{ ...sx.text2, my: '16px' }}>
 								{bold('Public Sale starts 12pm EST on Nov 19th.')}
 							</Typography>
-						)}
-
+						)} */}
+					<br />
+					<br />
 				</Box>
 
 				<Box sx={sx.col}>
-					<SaleCard
+					<Typography variant='heading2' sx={sx.title}>Chimerapillars Are Minting Soon</Typography>
+					{vertical && <Divider titleDivider />}
+					<Typography variant='text' sx={{ ...sx.text1, mb: 2 }}>Toddlerpillars sold out on November 2021 and are now available on the secondary market on <a style={{ textDecoration: 'none', color: '#19a8b4', fontWeight: '700' }} href="https://opensea.io/collection/toddlerpillars" target="_blank">OpenSea</a>. <br /><br />
+					Our companion creatures, The <a style={{ textDecoration: 'none', color: '#19a8b4', fontWeight: '700' }} href="https://twitter.com/chimerapillars" target="_blank">Chimerapillars</a> will be summoned soon to rescue the Toddlerpillars from the corruption of the lonely Pillar!<br /><br />
+					All Toddlerpillar parents will get a FREE Chimerapillars mint and a discount on additional mints during the Chimerapillar presale!<br /><br />
+					<a style={{ textDecoration: 'none', color: '#19a8b4', fontWeight: '700' }} href="https://opensea.io/collection/toddlerpillars" target="_blank">Adopt a Toddlerpillar</a> today to secure your place!</Typography>
+					{/* <SaleCard
 						mintOnClick={(mintInfo) => {
 							setCheckoutVisible(true);
 							setMintInfo(mintInfo);
 						}}
 						setMainSaleStarted={setMainSaleStarted}
-					/>
+					/> */}
 				</Box>
 
-				<Typography variant='text' sx={{ ...sx.text2, mt: '16px' }}>
+				{/* <Typography variant='text' sx={{ ...sx.text2, mt: '16px' }}>
 					{bold(
 						<>
 							Check collection on
@@ -264,7 +269,7 @@ const Banner = () => {
 							</Box>
 						</>,
 					)}
-				</Typography>
+				</Typography> */}
 
 				{/*
 				<Typography variant='text' sx={{ mt: '16px' }}>{DISCORD_TEXT}</Typography>

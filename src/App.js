@@ -10,7 +10,7 @@ import Web3Manager from './components/Web3Manager/Web3Manager';
 import Header from './components/Header/Header';
 import Footer from './components/common/Footer';
 import Arms from './components/Arms';
-import logo from './assets/images/toddlerpillars_logo.svg';
+import logo from './assets/images/Toddlerpillars-Logo.png';
 
 const BP1 = '@media (max-width: 539px)';
 const BP2 = '@media (max-width: 999px)';
@@ -63,8 +63,8 @@ const sx = {
 		},
 	},
 	logo: {
-		width: '400px',
-		height: '68px',
+		width: '350px',
+		height: '40px',
 		display: 'flex',
 		justifyContent: 'center',
 		alignItems: 'center',
@@ -186,7 +186,7 @@ function App() {
 					<HashRouter basename='/'>
 						<Box sx={sx.logoContainer}>
 							<Box sx={sx.logo}>
-								<img src={logo} style={{ width: '100%' }} alt='Logo' />
+								<a href="/"><img src={logo} style={{ width: '100%' }} alt='Logo' /></a>
 							</Box>
 						</Box>
 						<Header />

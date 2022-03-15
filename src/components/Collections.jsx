@@ -178,14 +178,13 @@ const Collections = () => {
         </Typography>
         <Divider titleDivider />
         <Typography variant="text" sx={{ mt: 4 }}>
-          Reveal for all minted Toddlerpillars at 12pm EST on Nov 20th.The reveal date for Toddlerpillars minted after 12 pm, Nov 20 will be announced soon.
-          <br/>Join our  <a href="https://discord.com/invite/toddlerpillars" style={{ textDecoration: 'none', color: '#19a8b4', fontWeight: '700' }} target='_blank' rel='noopener noreferrer'>Discord</a> for updates.
+          Download your high resolution 6300 x 6300 pixel Toddlerpillars, to which you have full commercial rights.
         </Typography>
 
         {!address && (
           <Box>
             <Typography variant="text" sx={{ my: 4 }}>
-              In order to see your tokens, you need to connect your wallet
+              Connect your wallet to see your bebehs.
             </Typography>
             <Button
               variant="outlined"

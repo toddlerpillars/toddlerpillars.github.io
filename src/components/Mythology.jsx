@@ -134,9 +134,11 @@ const Mythology = () => {
 			<Box sx={sx.textContainer}>
 				<Box sx={sx.textCol}>
 					<Typography variant='heading2' sx={sx.subtitle}>Chapter 1</Typography>
+					<br />
 					<Paragraph text={chapter1_1} />
 				</Box>
 				<Box sx={sx.textCol}>
+					<br />
 					<br />
 					<Paragraph text={chapter1_2} />
 				</Box>
@@ -145,9 +147,11 @@ const Mythology = () => {
 			<Box sx={sx.textContainer}>
 				<Box sx={sx.textCol}>
 					<Typography variant='heading2' sx={sx.subtitle}>Chapter 2</Typography>
+					<br />
 					<Paragraph text={chapter2_1} />
 				</Box>
 				<Box sx={sx.textCol}>
+					<br />
 					<br />
 					<Paragraph text={chapter2_2} />
 				</Box>
@@ -156,6 +160,7 @@ const Mythology = () => {
 			<Box sx={sx.textContainer}>
 				<Box sx={sx.textCol}>
 					<Typography variant='heading2' sx={sx.subtitle}>Chapter 3</Typography>
+					<br />
 					<Paragraph text="Coming soon..." />
 				</Box>
 				<Box sx={sx.textCol}>

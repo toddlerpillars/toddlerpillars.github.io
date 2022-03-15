@@ -179,6 +179,17 @@ const Roadmap = () => {
 			<Typography variant='heading1' sx={sx.title}>MID-LATE 2022</Typography>
 			<Divider titleDivider />
 			<Box sx={sx.textContainer}>
+			<Box sx={sx.textCol}>
+					<Box>
+						<Typography variant='heading2' sx={sx.subtitle}>A Graphic Novel About Toddlerpillars & Chimerapillars</Typography>
+						<Typography variant='text'>Our graphic novel will explore the origin story of Toddlerpillars and 
+						Chimerapillars in depth. This will expand upon our three part mythology with a detailed narrative and 
+						wonderfully strange illustrated panels and full page spreads. This publication will be released with an NFT 
+						which will be available as a free mint to people who hold both a Toddlerpillar and a Chimerapillar. The NFT 
+						will unlock a digital download of the graphic novel via our website. We also hope to release the graphic 
+						novel in print at a later date through a publisher.</Typography>
+					</Box>
+				</Box>
 				<Box sx={sx.textCol}>
 					<Box>
 						<Typography variant='heading2' sx={sx.subtitle}>Toddlerpillar Meetups in Australia & USA</Typography>
@@ -188,16 +199,6 @@ const Roadmap = () => {
 						members to get to know each other in real life and discuss future plans for all things Toddlerpillar.</Typography>
 					</Box>
 				</Box>
-				<Box sx={sx.textCol}>
-					<Box>
-						<Typography variant='heading2' sx={sx.subtitle}>Working Towards An Animated Series</Typography>
-						<Typography variant='text'>
-						We’re aiming to create an animated series based on Toddlerpillars. After storyboarding our 3 part 
-						Toddlerpillar lore, we hope to create a pilot with an animation studio and pitch it to various companies 
-						(such as Adult Swim) as an animated series for adults.
-						</Typography>
-					</Box>
-				</Box>
 			</Box>
 			<Divider style={sx.divider} />
 			<Typography variant='heading1' sx={sx.title}>2023 AND BEYOND</Typography>
@@ -205,12 +206,21 @@ const Roadmap = () => {
 			<Box sx={sx.textContainer}>
 				<Box sx={sx.textCol}>
 					<Box>
+						<Typography variant='heading2' sx={sx.subtitle}>Long Term Vision of An Animated Series</Typography>
+						<Typography variant='text'>
+						We'll pitch our graphic novel to various animation studios and production companies and hope to find a team 
+						who are interested in producing an animated series based on the story of our strange bebehs. Our dream would 
+						be to work with Adult Swim.
+						</Typography>
+					</Box>
+				</Box>
+				<Box sx={sx.textCol}>
+					<Box>
 						<Typography variant='heading2' sx={sx.subtitle}>Expansion of the Toddlerpillars Brand & Metaverse Integration</Typography>
 						<Typography variant='text'>We will continue to develop the Toddlerpillars brand & story with new 
 						related projects and continued exploration of integration with the metaverse as it evolves.</Typography>
 					</Box>
 				</Box>
-				<Box sx={sx.textCol} />
 			</Box>
 			<Discord />
 		</>
