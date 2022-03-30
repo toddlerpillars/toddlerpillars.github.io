@@ -111,24 +111,16 @@ const Roadmap = () => {
 					<Box>
 						<Typography variant='heading2' sx={sx.subtitle}>Toddlerpillar Merch on Maddies</Typography>
 						<Typography variant='text'>
-						We are releasing a range of Toddlerpillar Merch on <a style={{ textDecoration: 'none', color: '#19a8b4', fontWeight: '700' }} href="https://maddies.co" target="_blank">Maddies.co</a> in our 
-						official store. These items will only be available to Toddlerpillar 
-						parents. All parents can also set up their own stores on Maddies and 
-						sell merch with images of their own Toddlerpillars. Maddies use 6300 x 
-						6300 pixel files of your Toddlerpillars for their merch. You can also 
-						connect your wallets to the official Toddlerpillar website and download 
-						your high res Toddlerpillars, to which you have full commercial rights.
+						We have released a range of Toddlerpillars Merch on <a style={{ textDecoration: 'none', color: '#19a8b4', fontWeight: '700' }} href="https://maddies.co/official/toddlerpillars/" target="_blank">Maddies.co</a> that feature many of our most popular traits. These items are only available to Toddlerpillar parents. All parents can also set up their own stores on Maddies and sell merch with images of their own Toddlerpillars. Maddies use 6300 x 6300 pixel files of your Toddlerpillars for their merch. You can also connect your wallets to the official Toddlerpillar website and download your high res Toddlerpillars, to which you have full commercial rights.
 						</Typography>
 					</Box>
 					<Box>
-						<Typography variant='heading2' sx={sx.subtitle}>Custom Blank Toddlerpillar Toy Contest</Typography>
-						<Typography variant='text'>We’re teaming up with <a style={{ textDecoration: 'none', color: '#19a8b4', fontWeight: '700' }} href="https://ismtoys.ca/" target="_blank">IsmToys</a> to release a 
-						custom blank Toddlerpillar toy for traditional artists to modify and 
-						paint. A downloadable 3D file of the blank will also be available for 
-						digital artists to customize. An artist will be selected from each 
-						category to win an 8” hand painted designer Toddlerpillar toy, 
-						created by IsmToys. 10 runners up will be selected to win 
-						Toddlerpillar NFTs.</Typography>
+						<Typography variant='heading2' sx={sx.subtitle}>Toddlerpillar Jewelry & Wearables</Typography>
+						<Typography variant='text'>We've teamed up with Catharsis, an 
+						NFT-driven fashion and accessory brand, to create custom NFTs 
+						that will be redeemable for IRL, physical Toddlerpillar jewellery 
+						and wearables made of precious metal. You can mint your very own 
+						Toddlerpillar pendant <a href="https://toddlerpillars.catharsisdesign.com/" style={{ textDecoration: 'none', color: '#19a8b4', fontWeight: '700' }} target="_blank">here</a>.</Typography>
 					</Box>
 					<Box>
 						<Typography variant='heading2' sx={sx.subtitle}>Chimerapillars: Our Companion Collection</Typography>
@@ -138,12 +130,20 @@ const Roadmap = () => {
 						Chimerapillars will have 888 unique hand drawn traits.</Typography>
 					</Box>
 					<Box>
-						<Typography variant='heading2' sx={sx.subtitle}>Toddlerpillar Jewelry & Wearables</Typography>
-						<Typography variant='text'>We're teaming up with <a style={{ textDecoration: 'none', color: '#19a8b4', fontWeight: '700' }} href="https://www.catharsisdesign.com/" target="_blank">Catharsis</a>, an 
-						NFT-driven fashion and accessory brand, to create custom NFTs that 
-						will be redeemable for IRL, physical Toddlerpillar jewelry and 
-						wearables made of precious metal. The designs will be voted on by our 
-						community and will be exclusively available to Toddlerpillar parents.</Typography>
+						<Typography variant='heading2' sx={sx.subtitle}>Custom Blank Toddlerpillar Toy Contest & Gallery Exhibitions</Typography>
+						<Typography variant='text'>We’ve teamed up with <a style={{ textDecoration: 'none', color: '#19a8b4', fontWeight: '700' }} href="https://ismtoys.ca/" target="_blank">IsmToys</a> to 
+						release a custom blank Toddlerpillar toy for artists to modify 
+						and paint for two huge gallery exhibitions and a competition. 
+						All of the custom toys will be exhibited and sold on consignment. 
+						One exhibition will take place in Los Angeles at Superchief 
+						Gallery and the other will take place in Melbourne Australia with 
+						This is Not a Toy Company. Both events will double as 
+						Toddlerpillar meetups. A downloadable 3D file of the blank will 
+						also be available for digital artists to customise for the 
+						digital art category of our contest. An artist will be selected 
+						from each category to win an 8” hand painted designer 
+						Toddlerpillar toy, created by IsmToys and 10 runners up will be 
+						selected to win Toddlerpillar NFTs.</Typography>
 					</Box>
 				</Box>
 				<Box sx={sx.textCol}>
@@ -181,17 +181,6 @@ const Roadmap = () => {
 			<Box sx={sx.textContainer}>
 			<Box sx={sx.textCol}>
 					<Box>
-						<Typography variant='heading2' sx={sx.subtitle}>A Graphic Novel About Toddlerpillars & Chimerapillars</Typography>
-						<Typography variant='text'>Our graphic novel will explore the origin story of Toddlerpillars and 
-						Chimerapillars in depth. This will expand upon our three part mythology with a detailed narrative and 
-						wonderfully strange illustrated panels and full page spreads. This publication will be released with an NFT 
-						which will be available as a free mint to people who hold both a Toddlerpillar and a Chimerapillar. The NFT 
-						will unlock a digital download of the graphic novel via our website. We also hope to release the graphic 
-						novel in print at a later date through a publisher.</Typography>
-					</Box>
-				</Box>
-				<Box sx={sx.textCol}>
-					<Box>
 						<Typography variant='heading2' sx={sx.subtitle}>Toddlerpillar Meetups in Australia & USA</Typography>
 						<Typography variant='text'>We'll arrange three large gatherings of Toddlerpillar token holders for 2022. 
 						The first will take place in Melbourne, Australia, the second in Los Angeles, USA and the third at 
@@ -199,6 +188,20 @@ const Roadmap = () => {
 						members to get to know each other in real life and discuss future plans for all things Toddlerpillar.</Typography>
 					</Box>
 				</Box>
+				<Box sx={sx.textCol}>
+					<Box>
+						<Typography variant='heading2' sx={sx.subtitle}>Multimedia Graphic Novel About Toddlerpillars & Chimerapillars Lore</Typography>
+						<Typography variant='text'>Our multimedia graphic novel will 
+						explore the origin story of Toddlerpillars and Chimerapillars 
+						with over 100 pages. This publication will expand upon our lore 
+						with a detailed narrative, wonderfully strange illustrated 
+						panels, full page spreads and a number of animated panels with 
+						audio. This will only be available to people who hold both a 
+						Toddlerpillar and a Chimerapillar. We also hope to release the 
+						graphic novel in print at a later date through a publisher.</Typography>
+					</Box>
+				</Box>
+				
 			</Box>
 			<Divider style={sx.divider} />
 			<Typography variant='heading1' sx={sx.title}>2023 AND BEYOND</Typography>

@@ -36,9 +36,7 @@ const TEXT2 = [
 	'The Toddlerpillars were an instant hit and a large international community of like minds have congregated around their little friends on discord '
 	+ 'and Twitter, eagerly anticipating their launch in early November. The community has taken on a creative role by suggesting thousands of traits for the '
 	+ 'Toddlerpillars. So many of their ideas have been incorporated into the project that they have become more like a hive mind of collaborators than a community of fans.',
-	'Jon and Tim have developed a backstory/mythology for the Toddlerpillars, which finds our little friends in a parallel universe that is set to collide with '
-	+ 'our own. The project has a detailed roadmap which extends way beyond the mint, with a PFP collection of companion creatures, The Chimerapillars, a series of '
-	+ 'vinyl toys, metaverse integration, an animated series, token holder meetups in Australia and the USA and much more!'];
+	'Jon and Tim have developed a detailed lore for the Toddlerpillars, which finds our little friends in a parallel universe that is set to collide with our own. The project has a detailed roadmap which extends way beyond the mint, with a companion collection, the Chimerapillars, a 100+ page graphic novel exploring the lore, IRL collectable toys, jewellery, merchandise, international meetups for holders and much more!'];
 
 const galeryurl = 'https://beinart.org/';
 const jurl = 'https://beinart.org/pages/jon-beinart';
