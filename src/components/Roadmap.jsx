@@ -64,11 +64,11 @@ const TEXT5 = [
 ];
 
 const TEXT6 = [
-	`Jon Beinart and Tim Molloy will start working on their next NFT project, Chimerapillars, 
+	`Jon Beinart and Tim Molloy will start working on their next NFT project, Chimerapillars,
 	which they aim to launch in the second quarter of 2022. Chimerapillars will be loyal
-	companions to the Toddlerpillars and as such, every Toddlerpillar token holder will be able to 
+	companions to the Toddlerpillars and as such, every Toddlerpillar token holder will be able to
 	claim a free Chimerapillar!`,
-	`All Toddlerpillar parents (token holders) will also gain access to the VIP Presale for the Chimerapillars drop. 
+	`All Toddlerpillar parents (token holders) will also gain access to the VIP Presale for the Chimerapillars drop.
 	This next series will be just as intricate and bizarre as the Toddlerpillars series, only much more cuddly.`,
 ];
 
@@ -111,65 +111,65 @@ const Roadmap = () => {
 					<Box>
 						<Typography variant='heading2' sx={sx.subtitle}>Toddlerpillar Merch on Maddies</Typography>
 						<Typography variant='text'>
-						We have released a range of Toddlerpillars Merch on <a style={{ textDecoration: 'none', color: '#19a8b4', fontWeight: '700' }} href="https://maddies.co/official/toddlerpillars/" target="_blank">Maddies.co</a> that feature many of our most popular traits. These items are only available to Toddlerpillar parents. All parents can also set up their own stores on Maddies and sell merch with images of their own Toddlerpillars. Maddies use 6300 x 6300 pixel files of your Toddlerpillars for their merch. You can also connect your wallets to the official Toddlerpillar website and download your high res Toddlerpillars, to which you have full commercial rights.
+						We have released a range of Toddlerpillars Merch on <a style={{ textDecoration: 'none', color: '#19a8b4', fontWeight: '700' }} href="https://maddies.co/official/toddlerpillars/" target="_blank">Maddies.co</a> that feature many of our most popular traits. These items are only available to Toddlerpillar parents. All parents can also set up their own stores on Maddies and sell merch with images of their own Toddlerpillars. Maddies use 6300 x 6300 pixel files of your Toddlerpillars for their merch. You can also connect your wallets to the official Toddlerpillar website and download <a style={{ textDecoration: 'none', color: '#19a8b4', fontWeight: '700' }} href="/#/collections">your high res</a> Toddlerpillars, to which you have full commercial rights.
 						</Typography>
 					</Box>
 					<Box>
 						<Typography variant='heading2' sx={sx.subtitle}>Toddlerpillar Jewelry & Wearables</Typography>
-						<Typography variant='text'>We've teamed up with Catharsis, an 
-						NFT-driven fashion and accessory brand, to create custom NFTs 
-						that will be redeemable for IRL, physical Toddlerpillar jewellery 
-						and wearables made of precious metal. You can mint your very own 
+						<Typography variant='text'>We've teamed up with Catharsis, an
+						NFT-driven fashion and accessory brand, to create custom NFTs
+						that will be redeemable for IRL, physical Toddlerpillar jewellery
+						and wearables made of precious metal. You can mint your very own
 						Toddlerpillar pendant <a href="https://toddlerpillars.catharsisdesign.com/" style={{ textDecoration: 'none', color: '#19a8b4', fontWeight: '700' }} target="_blank">here</a>.</Typography>
 					</Box>
 					<Box>
 						<Typography variant='heading2' sx={sx.subtitle}>Chimerapillars: Our Companion Collection</Typography>
-						<Typography variant='text'>All Toddlerpillar parents will get a free <a href="https://twitter.com/chimerapillars" style={{ textDecoration: 'none', color: '#19a8b4', fontWeight: '700' }} target="_blank">Chimerapillar</a> mint and a discount on additional mints during the 
-						presale! They will be summoned in the 2nd quarter of 2022 to rescue 
-						the Toddlerpillars from the corrupt influence of the Lonely 'Pillar! 
+						<Typography variant='text'>All Toddlerpillar parents will get a free <a href="https://twitter.com/chimerapillars" style={{ textDecoration: 'none', color: '#19a8b4', fontWeight: '700' }} target="_blank">Chimerapillar</a> mint and a discount on additional mints during the
+						presale! They will be summoned in the 2nd quarter of 2022 to rescue
+						the Toddlerpillars from the corrupt influence of the Lonely 'Pillar!
 						Chimerapillars will have 888 unique hand drawn traits.</Typography>
 					</Box>
 					<Box>
 						<Typography variant='heading2' sx={sx.subtitle}>Custom Blank Toddlerpillar Toy Contest & Gallery Exhibitions</Typography>
-						<Typography variant='text'>We’ve teamed up with <a style={{ textDecoration: 'none', color: '#19a8b4', fontWeight: '700' }} href="https://ismtoys.ca/" target="_blank">IsmToys</a> to 
-						release a custom blank Toddlerpillar toy for artists to modify 
-						and paint for two huge gallery exhibitions and a competition. 
-						All of the custom toys will be exhibited and sold on consignment. 
-						One exhibition will take place in Los Angeles at Superchief 
-						Gallery and the other will take place in Melbourne Australia with 
-						This is Not a Toy Company. Both events will double as 
-						Toddlerpillar meetups. A downloadable 3D file of the blank will 
-						also be available for digital artists to customise for the 
-						digital art category of our contest. An artist will be selected 
-						from each category to win an 8” hand painted designer 
-						Toddlerpillar toy, created by IsmToys and 10 runners up will be 
+						<Typography variant='text'>We’ve teamed up with <a style={{ textDecoration: 'none', color: '#19a8b4', fontWeight: '700' }} href="https://ismtoys.ca/" target="_blank">IsmToys</a> to
+						release a custom blank Toddlerpillar toy for artists to modify
+						and paint for two huge gallery exhibitions and a competition.
+						All of the custom toys will be exhibited and sold on consignment.
+						One exhibition will take place in Los Angeles at Superchief
+						Gallery and the other will take place in Melbourne Australia with
+						This is Not a Toy Company. Both events will double as
+						Toddlerpillar meetups. A downloadable 3D file of the blank will
+						also be available for digital artists to customise for the
+						digital art category of our contest. An artist will be selected
+						from each category to win an 8” hand painted designer
+						Toddlerpillar toy, created by IsmToys and 10 runners up will be
 						selected to win Toddlerpillar NFTs.</Typography>
 					</Box>
 				</Box>
 				<Box sx={sx.textCol}>
 					<Box>
 						<Typography variant='heading2' sx={sx.subtitle}>Toddlerpillar Toys</Typography>
-						<Typography variant='text'>We will work with various toy companies to 
-						create both limited edition & open edition Toddlerpillar toys. These 
-						will include full figure vinyl Toddlerpillars as well as toys of 
-						specific traits. Some of these toys will be limited editions that are 
-						exclusively available to Toddlerpillar parents and others will be open 
-						editions that are widely available, with a significant discount for 
+						<Typography variant='text'>We will work with various toy companies to
+						create both limited edition & open edition Toddlerpillar toys. These
+						will include full figure vinyl Toddlerpillars as well as toys of
+						specific traits. Some of these toys will be limited editions that are
+						exclusively available to Toddlerpillar parents and others will be open
+						editions that are widely available, with a significant discount for
 						Toddlerpillar parents.</Typography>
 					</Box>
 					<Box>
 						<Typography variant='heading2' sx={sx.subtitle}>1/1 & Limited Edition Airdrops for Holders</Typography>
-						<Typography variant='text'>Tim Molloy will continue creating themed 
-						1/1 Toddlerpillar NFTs and limited edition Toddlerpillar NFTs. 
-						These NFTs are only available to verified Toddlerpillar  holders on 
-						our <a style={{ textDecoration: 'none', color: '#19a8b4', fontWeight: '700' }} href="https://discord.gg/toddlerpillars" target="_blank">Discord</a>. People with 9 or more Toddlerpillars (The Nines) can 
-						enter a weekly contest to win themed 1/1 Toddlerpillars & members who 
-						participate in Discord activities can earn larval gems, which can be 
+						<Typography variant='text'>Tim Molloy will continue creating themed
+						1/1 Toddlerpillar NFTs and limited edition Toddlerpillar NFTs.
+						These NFTs are only available to verified Toddlerpillar  holders on
+						our <a style={{ textDecoration: 'none', color: '#19a8b4', fontWeight: '700' }} href="https://discord.gg/toddlerpillars" target="_blank">Discord</a>. People with 9 or more Toddlerpillars (The Nines) can
+						enter a weekly contest to win themed 1/1 Toddlerpillars & members who
+						participate in Discord activities can earn larval gems, which can be
 						exchanged for limited edition NFTs in our Discord shop.</Typography>
 					</Box>
 					<Box>
 						<Typography variant='heading2' sx={sx.subtitle}>The Third and Final Chapter of The Toddlerpillar Lore</Typography>
-						<Typography variant='text'>We will release the third chapter of our <a style={{ textDecoration: 'none', color: '#19a8b4', fontWeight: '700' }} href="/#/mythology" target="_blank">lore</a> after the Chimerapillar mint. 
+						<Typography variant='text'>We will release the third chapter of our <a style={{ textDecoration: 'none', color: '#19a8b4', fontWeight: '700' }} href="/#/mythology" target="_blank">lore</a> after the Chimerapillar mint.
 						Then we will begin the process of storyboarding for the animated series we are aiming to produce.</Typography>
 					</Box>
 				</Box>
@@ -182,26 +182,26 @@ const Roadmap = () => {
 			<Box sx={sx.textCol}>
 					<Box>
 						<Typography variant='heading2' sx={sx.subtitle}>Toddlerpillar Meetups in Australia & USA</Typography>
-						<Typography variant='text'>We'll arrange three large gatherings of Toddlerpillar token holders for 2022. 
-						The first will take place in Melbourne, Australia, the second in Los Angeles, USA and the third at 
-						Superchief Gallery NFT in NYC, USA. These events will provide a wonderful opportunity for community 
+						<Typography variant='text'>We'll arrange three large gatherings of Toddlerpillar token holders for 2022.
+						The first will take place in Melbourne, Australia, the second in Los Angeles, USA and the third at
+						Superchief Gallery NFT in NYC, USA. These events will provide a wonderful opportunity for community
 						members to get to know each other in real life and discuss future plans for all things Toddlerpillar.</Typography>
 					</Box>
 				</Box>
 				<Box sx={sx.textCol}>
 					<Box>
 						<Typography variant='heading2' sx={sx.subtitle}>Multimedia Graphic Novel About Toddlerpillars & Chimerapillars Lore</Typography>
-						<Typography variant='text'>Our multimedia graphic novel will 
-						explore the origin story of Toddlerpillars and Chimerapillars 
-						with over 100 pages. This publication will expand upon our lore 
-						with a detailed narrative, wonderfully strange illustrated 
-						panels, full page spreads and a number of animated panels with 
-						audio. This will only be available to people who hold both a 
-						Toddlerpillar and a Chimerapillar. We also hope to release the 
+						<Typography variant='text'>Our multimedia graphic novel will
+						explore the origin story of Toddlerpillars and Chimerapillars
+						with over 100 pages. This publication will expand upon our lore
+						with a detailed narrative, wonderfully strange illustrated
+						panels, full page spreads and a number of animated panels with
+						audio. This will only be available to people who hold both a
+						Toddlerpillar and a Chimerapillar. We also hope to release the
 						graphic novel in print at a later date through a publisher.</Typography>
 					</Box>
 				</Box>
-				
+
 			</Box>
 			<Divider style={sx.divider} />
 			<Typography variant='heading1' sx={sx.title}>2023 AND BEYOND</Typography>
@@ -211,8 +211,8 @@ const Roadmap = () => {
 					<Box>
 						<Typography variant='heading2' sx={sx.subtitle}>Long Term Vision of An Animated Series</Typography>
 						<Typography variant='text'>
-						We'll pitch our graphic novel to various animation studios and production companies and hope to find a team 
-						who are interested in producing an animated series based on the story of our strange bebehs. Our dream would 
+						We'll pitch our graphic novel to various animation studios and production companies and hope to find a team
+						who are interested in producing an animated series based on the story of our strange bebehs. Our dream would
 						be to work with Adult Swim.
 						</Typography>
 					</Box>
@@ -220,7 +220,7 @@ const Roadmap = () => {
 				<Box sx={sx.textCol}>
 					<Box>
 						<Typography variant='heading2' sx={sx.subtitle}>Expansion of the Toddlerpillars Brand & Metaverse Integration</Typography>
-						<Typography variant='text'>We will continue to develop the Toddlerpillars brand & story with new 
+						<Typography variant='text'>We will continue to develop the Toddlerpillars brand & story with new
 						related projects and continued exploration of integration with the metaverse as it evolves.</Typography>
 					</Box>
 				</Box>

@@ -284,11 +284,12 @@ const sx = {
 	},
 };
 
-const BUTTONS = ['About', 'Roadmap', 'Hi-res', 'Rarity', 'OpenSea', 'Merch'];
-const MOBILEBUTTONS = ['About', 'Roadmap', 'Hi-res', 'Rarity', 'OpenSea', 'Merch'];
-const PATHS = ['/about', '/roadmap', '/collections', null, null, null];
+const BUTTONS = ['Chimerapillars', 'About', 'Roadmap', 'Hi-res', 'Rarity', 'OpenSea', 'Merch'];
+const MOBILEBUTTONS = ['Chimerapillars', 'About', 'Roadmap', 'Hi-res', 'Rarity', 'OpenSea', 'Merch'];
+const PATHS = [null, '/about', '/roadmap', '/collections', null, null, null];
 const DROPMENU = ['About Toddlerpillars', 'Mythology', 'History'];
 const DROPMENUPATHS = ['/about', '/mythology', '/history'];
+const urlChimerapillars = 'https://chimerapillars.com';
 const urlRarity = 'https://rarity.tools/toddlerpillars';
 const urlOpensea = 'https://opensea.io/collection/toddlerpillars';
 const urlMaddies = 'https://maddies.co/official/toddlerpillars/'
@@ -380,6 +381,13 @@ const Header = () => {
 					</Box>
 					<Box sx={sx.btnContainer}>
 						{BUTTONS.map((btn, i) => {
+							if (btn === 'Chimerapillars') {
+								return (
+									<a key={btn} href={urlChimerapillars} style={{ textDecoration: 'none' }} target="_blank">
+										<HeaderButton key={btn} text='← Chimerapillars.com' vertical />
+									</a>
+								);
+							}
 							if (btn === 'About') {
 								return (
 									<>
@@ -463,6 +471,13 @@ const Header = () => {
 						</Box>
 						<Box sx={{ px: '48px' }}>
 							{MOBILEBUTTONS.map((btn, i) => {
+								if (btn === 'Chimerapillars') {
+									return (
+										<a key={btn} href={urlChimerapillars} style={{ textDecoration: 'none' }} target="_blank">
+											<HeaderButton key={btn} text='← Chimerapillars.com' vertical />
+										</a>
+									);
+								}
 								if (btn === 'About') {
 									return (
 										<>
