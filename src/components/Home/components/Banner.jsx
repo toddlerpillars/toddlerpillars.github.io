@@ -1,5 +1,5 @@
 import React, { useRef, useState } from 'react';
-import { Box, Typography, useMediaQuery } from '@mui/material';
+import { Box, Typography, Button, useMediaQuery } from '@mui/material';
 import Slider from 'react-slick';
 import discord from '../../../assets/images/social/discord.svg';
 import Divider from '../../common/Divider';
@@ -133,6 +133,35 @@ const sx = {
 			opacity: 0.9,
 		},
 	},
+	chimeraBtn: {
+	  fontSize: 22,
+	  minWidth: "150px",
+		margin: "auto",
+	  marginTop: "1.75em",
+	  paddingLeft: "40px",
+	  paddingRight: "40px",
+	  height: "66px",
+	  borderRadius: "33px",
+	  cursor: "pointer",
+	  display: "flex",
+	  justifyContent: "center",
+	  alignItems: "center",
+	  fontFamily: "roboto-bold",
+	  transition: "all .3s",
+	  textTransform: "unset",
+	  [BP1]: {
+	    width: '100%',
+  	    paddingLeft: "20px",
+  	    paddingRight: "20px",
+	  },
+	  "&:focus": {
+	    outlineColor: COLOR_CYAN,
+	  },
+	  "&:disabled": {
+	    cursor: "not-allowed",
+	    opacity: 0.5,
+	  },
+	},
 };
 
 const HEADER_TEXT = `Through a ragged hole in reality crawled 9,999 Toddlerpillar NFTs generated from 888 mind-bending traits. These infantile demigods have turned our reality inside out, but never fear! The Chimerapillars have been summoned to save us! These collections continue the twenty-year history of artist and gallerist Jon Beinart's renowned doll sculptures, imbuing them with fresh psychedelic energy from award-winning artist and madman, Tim Molloy`;
@@ -218,7 +247,7 @@ const Banner = () => {
 					<Typography variant='heading2' sx={sx.title}>Toddlerpillars & Chimerapillars</Typography>
 					{vertical && <Divider titleDivider />}
 					<Typography variant='text' sx={{ ...sx.text1, mb: 2 }}>{HEADER_TEXT}</Typography>
-					
+
 					<Typography variant='text' sx={{ ...sx.text1, mb: 2 }}>{HEADER2_TEXT}</Typography>
 
 					{/* {!mainSaleStarted
@@ -246,6 +275,17 @@ const Banner = () => {
 						setMainSaleStarted={setMainSaleStarted}
 					/> */}
 				</Box>
+
+				<Button
+					variant="contained"
+					sx={sx.chimeraBtn}
+					onClick={(evt) => {
+						evt.preventDefault()
+						window.open('https://chimerapillars.com')
+					}}
+				>
+					MINT CHIMERAPILLARS
+				</Button>
 
 				{/* <Typography variant='text' sx={{ ...sx.text2, mt: '16px' }}>
 					{bold(
