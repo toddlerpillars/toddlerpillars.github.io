@@ -284,9 +284,9 @@ const sx = {
 	},
 };
 
-const BUTTONS = ['Chimerapillars', 'About', 'Roadmap', 'Hi-res', 'Rarity', 'OpenSea', 'Merch'];
-const MOBILEBUTTONS = ['Chimerapillars', 'About', 'Roadmap', 'Hi-res', 'Rarity', 'OpenSea', 'Merch'];
-const PATHS = [null, '/about', '/roadmap', '/collections', null, null, null];
+const BUTTONS = ['Chimerapillars', 'About', 'Roadmap',  'Rarity', 'OpenSea', 'Merch'];
+const MOBILEBUTTONS = ['Chimerapillars', 'About', 'Roadmap',  'Rarity', 'OpenSea', 'Merch'];
+const PATHS = [null, '/about', '/roadmap', null, null, null];
 const DROPMENU = ['About Toddlerpillars', 'Mythology', 'History'];
 const DROPMENUPATHS = ['/about', '/mythology', '/history'];
 const urlChimerapillars = 'https://chimerapillars.com';
