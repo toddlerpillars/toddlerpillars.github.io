@@ -135,17 +135,9 @@ const sx = {
 	},
 };
 
-const HEADER_TEXT = `Through a ragged hole in reality crawl 9,999 Toddlerpillar NFTs 
-generated from 888 mind-bending traits, including 60 ultra-rare 1/1s! The collection 
-continues the twenty-year history of artist and gallerist Jon Beinart's renowned doll 
-sculptures, imbuing them with fresh psychedelic energy from award-winning artist and 
-madman, Tim Molloy. `;
+const HEADER_TEXT = `Through a ragged hole in reality crawled 9,999 Toddlerpillar NFTs generated from 888 mind-bending traits. These infantile demigods have turned our reality inside out, but never fear! The Chimerapillars have been summoned to save us! These collections continue the twenty-year history of artist and gallerist Jon Beinart's renowned doll sculptures, imbuing them with fresh psychedelic energy from award-winning artist and madman, Tim Molloy`;
 
-const HEADER2_TEXT = `Toddlerpillar holders join an inter-dimensional art collective with access to global gatherings, exclusive airdrops, IRL collectable toys, jewellery, merch & much more!`
-
-const HEADER3_TEXT = `Each Toddlerpillar holder can summon a free Chimerapillar NFT from 
-our companion collection in the second quarter of 2022. Members who hold both of our NFTs 
-will be rewarded with access to a 100+ page graphic novel exploring our lore.`
+const HEADER2_TEXT = `Toddlerpillar & Chimerapillar holders join an inter-dimensional art collective with access to global gatherings, exclusive airdrops, a 100+ page multimedia graphic novel exploring our lore, IRL collectable toys, metaverse exhibitions, merch & much more!`
 
 const DISCORD_TEXT = 'Join our delightfully strange discord family!';
 
@@ -229,8 +221,6 @@ const Banner = () => {
 					
 					<Typography variant='text' sx={{ ...sx.text1, mb: 2 }}>{HEADER2_TEXT}</Typography>
 
-					<Typography variant='text' sx={{ ...sx.text1, mb: 2 }}>{HEADER3_TEXT}</Typography>
-
 					{/* {!mainSaleStarted
 						&& (
 							<Typography variant='text' sx={{ ...sx.text2, my: '16px' }}>
@@ -242,12 +232,12 @@ const Banner = () => {
 				</Box>
 
 				<Box sx={sx.col}>
-					<Typography variant='heading2' sx={sx.title}>Chimerapillars Are Minting Soon</Typography>
+					<Typography variant='heading2' sx={sx.title}>Chimerapillars Presale May 16 - 22</Typography>
 					{vertical && <Divider titleDivider />}
-					<Typography variant='text' sx={{ ...sx.text1, mb: 2 }}>Toddlerpillars sold out on November 2021 and are now available on the secondary market on <a style={{ textDecoration: 'none', color: '#19a8b4', fontWeight: '700' }} href="https://opensea.io/collection/toddlerpillars" target="_blank">OpenSea</a>. <br /><br />
-					Our companion creatures, The <a style={{ textDecoration: 'none', color: '#19a8b4', fontWeight: '700' }} href="https://twitter.com/chimerapillars" target="_blank">Chimerapillars</a> will be summoned soon to rescue the Toddlerpillars from the corruption of the lonely Pillar!<br /><br />
-					All Toddlerpillar parents will get a FREE Chimerapillars mint and a discount on additional mints during the Chimerapillar presale!<br /><br />
-					<a style={{ textDecoration: 'none', color: '#19a8b4', fontWeight: '700' }} href="https://opensea.io/collection/toddlerpillars" target="_blank">Adopt a Toddlerpillar</a> today to secure your place!</Typography>
+					<Typography variant='text' sx={{ ...sx.text1, mb: 2 }}>8888 Chimerapillars with 888 traits have been summoned to save humanity from the Toddlerpillar apocalypse. Madness and mayhem have plagued the world since the 6 armed bebehs tore a hole in our reality! Can the Chimerapillars rescue their infantile cousins from the corruption of the Lonely Pillar?<br /><br />
+					Mint multiple Chimerapillars for our upcoming merge and burn utility. Holders will be able to select their favourite traits from 2 NFTs and merge them into 1 while reducing the supply with a burn mechanism.<br /><br />
+					Toddlerpillar holders who submitted their wallets via discord before May 10 can mint 1 FREE Chimera during our presale or 2 FREE Chimeras if they hold 9+ Toddlers.<br /><br />
+					Only wallets holding Toddlers can mint during Chimera presale. <a style={{ textDecoration: 'none', color: '#19a8b4', fontWeight: '700' }} href="https://opensea.io/collection/toddlerpillars" target="_blank">Adopt a Toddler!</a> Presale runs May 16 - May 22. Public sale starts May 23. <span style={{ fontWeight: 'bold' }}>Chimera mint price: 0.03 ETH.</span></Typography>
 					{/* <SaleCard
 						mintOnClick={(mintInfo) => {
 							setCheckoutVisible(true);

@@ -42,13 +42,7 @@ const sx = {
 };
 
 const MYTHOLOGY = [
-	'The time has come to usher in the new age of the Toddlerpillars, the lovable '
-	+ 'descendants of their sculptural ancestors. Tim Molloy has written a hilarious, '
-	+ 'yet strangely profound backstory for the Toddlerpillars, which finds our little '
-	+ 'friends in a parallel universe that is set to collide with our own.',
-	'The Toddlerpillar Mythos was adapted into a short animation (above), which '
-	+ 'was voiced, animated and produced by Simbull, one of Jon Beinart\'s oldest '
-	+ 'and dearest friends and a long time creative collaborator.'];
+	'The time has come to usher in the new age of the Toddlerpillars, the lovable descendants of their sculptural ancestors. Tim Molloy has written a hilarious, yet strangely profound backstory for the Toddlerpillars, which finds our little friends in a parallel universe that is set to collide with our own and the evocation of their inter-dimensional cousins, The Chimerapillars.'];
 
 const HISTORY = [
 	'This project evolved from Jon Beinart\'s infamous insectoid doll sculptures, the'
@@ -61,9 +55,7 @@ const HISTORY = [
 	+ ' Australia. This NFT project marks Jon\'s return to one of his earliest artistic'
 	+ ' creations, the Toddlerpillars, in a partnership with the incredible illustrator, Tim Molloy.'];
 
-const ROADMAP = 'View our roadmap for a breakdown of the exciting things to come! '
-	+ 'These include 3D Toddlerpillar assets for the Metaverse, meetups in USA and '
-	+ 'Australia, real world vinyl toys, full commercial rights for token holders and our companion project, the Chimerapillars.';
+const ROADMAP = 'We have exciting things ahead, including our companion collection, the Chimerapillars, exclusive airdrops, a 100+ page multimedia graphic novel exploring our lore, IRL collectable custom toys and physical exhibitions, metaverse exhibitions & much more. ';
 
 const Overview = () => {
 	const isSmall = useMediaQuery('(max-width: 879px)');

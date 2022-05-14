@@ -111,23 +111,12 @@ const Roadmap = () => {
 					<Box>
 						<Typography variant='heading2' sx={sx.subtitle}>Toddlerpillar Merch on Maddies</Typography>
 						<Typography variant='text'>
-						We have released a range of Toddlerpillars Merch on <a style={{ textDecoration: 'none', color: '#19a8b4', fontWeight: '700' }} href="https://maddies.co/official/toddlerpillars/" target="_blank">Maddies.co</a> that feature many of our most popular traits. These items are only available to Toddlerpillar parents. All parents can also set up their own stores on Maddies and sell merch with images of their own Toddlerpillars. Maddies use 6300 x 6300 pixel files of your Toddlerpillars for their merch. You can also connect your wallets to the official Toddlerpillar website and download your high res Toddlerpillars, to which you have full commercial rights.
+						We have released a range of Toddlerpillars Merch on <a style={{ textDecoration: 'none', color: '#19a8b4', fontWeight: '700' }} href="https://maddies.co/official/toddlerpillars/" target="_blank">Maddies.co</a> that feature some of our most popular traits. All parents can also set up their own stores on Maddies and sell merch with images of their own Toddlerpillars. Maddies use 6300 x 6300 pixel files of your Toddlerpillars for their merch. You can also connect your wallets to the official Toddlerpillar website and download your high res Toddlerpillars, to which you have full commercial rights.
 						</Typography>
 					</Box>
 					<Box>
-						<Typography variant='heading2' sx={sx.subtitle}>Toddlerpillar Jewelry & Wearables</Typography>
-						<Typography variant='text'>We've teamed up with Catharsis, an 
-						NFT-driven fashion and accessory brand, to create custom NFTs 
-						that will be redeemable for IRL, physical Toddlerpillar jewellery 
-						and wearables made of precious metal. You can mint your very own 
-						Toddlerpillar pendant <a href="https://toddlerpillars.catharsisdesign.com/" style={{ textDecoration: 'none', color: '#19a8b4', fontWeight: '700' }} target="_blank">here</a>.</Typography>
-					</Box>
-					<Box>
 						<Typography variant='heading2' sx={sx.subtitle}>Chimerapillars: Our Companion Collection</Typography>
-						<Typography variant='text'>All Toddlerpillar parents will get a free <a href="https://twitter.com/chimerapillars" style={{ textDecoration: 'none', color: '#19a8b4', fontWeight: '700' }} target="_blank">Chimerapillar</a> mint and a discount on additional mints during the 
-						presale! They will be summoned in the 2nd quarter of 2022 to rescue 
-						the Toddlerpillars from the corrupt influence of the Lonely 'Pillar! 
-						Chimerapillars will have 888 unique hand drawn traits.</Typography>
+						<Typography variant='text'>The Chimerapillars are being summoned to save humanity from the Toddlerpillar apocalypse! All Toddlerpillar holders will get a free Chimerapillar mint if they submitted their wallet on our discord by May 11th! Holders with 9+ Toddlers will get 2 free Chimeras. The Chimera presale runs from May 16 - 22 and the public sale starts on May 23. Mint price: 0.03 ETH</Typography>
 					</Box>
 					<Box>
 						<Typography variant='heading2' sx={sx.subtitle}>Custom Blank Toddlerpillar Toy Contest & Gallery Exhibitions</Typography>
@@ -147,6 +136,12 @@ const Roadmap = () => {
 					</Box>
 				</Box>
 				<Box sx={sx.textCol}>
+					<Box>
+						<Typography variant='heading2' sx={sx.subtitle}>Metaverse Exhibitions of Pillar Derivative Art</Typography>
+						<Typography variant='text'>We're collecting our favourite Toddlerpillar and Chimerapillar derivatives in a 
+						vault (wallet) and will be organising a series of huge exhibitions in the metaverse to celebrate the 
+						extraordinary artists in our community. You can <a style={{ textDecoration: 'none', color: '#19a8b4', fontWeight: '700' }} href="https://opensea.io/Toddlerpillar-Chimerapillar-Derivative-Vault" target="_blank">view our growing collection of derivatives in our vault</a>.</Typography>
+					</Box>
 					<Box>
 						<Typography variant='heading2' sx={sx.subtitle}>Toddlerpillar Toys</Typography>
 						<Typography variant='text'>We will work with various toy companies to 
@@ -179,7 +174,14 @@ const Roadmap = () => {
 			<Typography variant='heading1' sx={sx.title}>MID-LATE 2022</Typography>
 			<Divider titleDivider />
 			<Box sx={sx.textContainer}>
-			<Box sx={sx.textCol}>
+				<Box sx={sx.textCol}>
+					<Box>
+						<Typography variant='heading2' sx={sx.subtitle}>Chimerapillar Trait Merge and Burn</Typography>
+						<Typography variant='text'>Holders with multiple Chimerapillars will be able to select their favourite 
+						traits from two NFTs and merge them into one, while burning the other NFT with the rejected traits. This 
+						will enable holders to customise their Chimerapillars and improve their rarity, while decreasing the supply 
+						& collection size.</Typography>
+					</Box>
 					<Box>
 						<Typography variant='heading2' sx={sx.subtitle}>Toddlerpillar Meetups in Australia & USA</Typography>
 						<Typography variant='text'>We'll arrange three large gatherings of Toddlerpillar token holders for 2022. 
