@@ -384,7 +384,7 @@ const Header = () => {
 							if (btn === 'Chimerapillars') {
 								return (
 									<a key={btn} href={urlChimerapillars} style={{ textDecoration: 'none' }} target="_blank">
-										<HeaderButton key={btn} text='← Chimerapillars.com' vertical />
+										<HeaderButton key={btn} text='← Chimerapillars' vertical />
 									</a>
 								);
 							}
@@ -437,7 +437,7 @@ const Header = () => {
 					</Box>
 					<Box sx={sx.socialButtonContainer}>
 						<Box sx={sx.socialContainer}>
-							<SocialButton variant='instagram' style={{ width: '27px', height: '27px' }} />
+							{/*<SocialButton variant='instagram' style={{ width: '27px', height: '27px' }} />*/}
 							<SocialButton variant='twitter' style={{ width: '27px', height: '27px' }} />
 							<SocialButton variant='discord' style={{ width: '27px', height: '27px' }} />
 						</Box>
@@ -474,7 +474,7 @@ const Header = () => {
 								if (btn === 'Chimerapillars') {
 									return (
 										<a key={btn} href={urlChimerapillars} style={{ textDecoration: 'none' }} target="_blank">
-											<HeaderButton key={btn} text='← Chimerapillars.com' vertical />
+											<HeaderButton key={btn} text='← Chimerapillars' vertical />
 										</a>
 									);
 								}
