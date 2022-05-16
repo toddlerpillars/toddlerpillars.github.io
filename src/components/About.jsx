@@ -32,6 +32,9 @@ const TEXT1 = [
 const TEXT2 = [
 	'The Toddlerpillars & Chimerapillars have been a huge hit and an international community of like minded people have congregated around their little friends on discord and Twitter. The community took on a creative role during the art creation by suggesting thousands of traits for both the Toddlerpillars & Chimerapillars. So many of their ideas were incorporated into the project that they have become more like a hive mind of collaborators than a community of fans.'];
 
+	const TEXT3 = [
+		'Jon and Tim have developed a detailed lore for the Toddlerpillars & Chimerapillars, which finds our little friends in a parallel universe that is set to collide with our own. The project has a detailed roadmap which extends way beyond the mint, with a 100+ page multimedia graphic novel exploring the lore, IRL custom collectable toys & gallery exhibitions, metaverse exhibitions,  merchandise, international meetups for holders and much more!'];
+
 const galeryurl = 'https://beinart.org/';
 const jurl = 'https://beinart.org/pages/jon-beinart';
 const turl = ' https://www.timmolloy.com';
@@ -55,7 +58,11 @@ const About = () => {
 					{'. These strange adorable creatures evolved from Jon\'s notorious Toddlerpillar doll sculptures (2002 - 2011), which were published widely in magazines and art books and frequently went viral in the early 2000s.'}
 					<Paragraph style={{ zIndex: '1', marginTop: '26px' }} text={TEXT1} />
 				</Typography>
-				<Paragraph style={{ zIndex: '1' }} text={TEXT2} />
+				<Typography variant='text'>
+				{'The Toddlerpillars & Chimerapillars have been a huge hit and an international community of like minded people have congregated around their little friends on discord and Twitter. The community took on a creative role during the art creation by suggesting thousands of traits for both the Toddlerpillars & Chimerapillars. So many of their ideas were incorporated into the project that they have become more like a hive mind of collaborators than a community of fans.'}
+					<br /><br />
+					{'Jon and Tim have developed a detailed lore for the Toddlerpillars & Chimerapillars, which finds our little friends in a parallel universe that is set to collide with our own. The project has a detailed roadmap which extends way beyond the mint, with a 100+ page multimedia graphic novel exploring the lore, IRL custom collectable toys & gallery exhibitions, metaverse exhibitions,  merchandise, international meetups for holders and much more!'}
+				</Typography>
 			</Box>
 			<Discord />
 		</>

@@ -111,7 +111,9 @@ const Roadmap = () => {
 					<Box>
 						<Typography variant='heading2' sx={sx.subtitle}>Toddlerpillar Merch on Maddies</Typography>
 						<Typography variant='text'>
-						We have released a range of Toddlerpillars Merch on <a style={{ textDecoration: 'none', color: '#19a8b4', fontWeight: '700' }} href="https://maddies.co/official/toddlerpillars/" target="_blank">Maddies.co</a> that feature some of our most popular traits. All parents can also set up their own stores on Maddies and sell merch with images of their own Toddlerpillars. Maddies use 6300 x 6300 pixel files of your Toddlerpillars for their merch. You can also connect your wallets to the official Toddlerpillar website and download your high res Toddlerpillars, to which you have full commercial rights.
+						We have released a range of Toddlerpillars Merch on <a style={{ textDecoration: 'none', color: '#19a8b4', fontWeight: '700' }} href="https://maddies.co/official/toddlerpillars/" target="_blank">Maddies.co</a> that feature some of 
+						our most popular traits. All parents can also set up their own stores on Maddies and sell merch with images of their own Toddlerpillars. Maddies use 6300 x 6300 pixel files of your Toddlerpillars for their merch. You can also 
+						connect your wallets to the official Toddlerpillar website and download <a style={{ textDecoration: 'none', color: '#19a8b4', fontWeight: '700' }} href="/#/collections" target="_blank">your high res Toddlerpillars</a>, to which you have full commercial rights.
 						</Typography>
 					</Box>
 					<Box>
