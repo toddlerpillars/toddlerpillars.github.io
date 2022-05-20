@@ -265,7 +265,6 @@ const Banner = () => {
 					{vertical && <Divider titleDivider />}
 					<Typography variant='text' sx={{ ...sx.text1, mb: 2 }}>8888 Chimerapillars with 888 traits have been summoned to save humanity from the Toddlerpillar apocalypse. Madness and mayhem have plagued the world since the 6 armed bebehs tore a hole in our reality! Can the Chimerapillars rescue their infantile cousins from the corruption of the Lonely Pillar?<br /><br />
 					Mint multiple Chimerapillars for our upcoming merge and burn utility. Holders will be able to select their favourite traits from 2 NFTs and merge them into 1 while reducing the supply with a burn mechanism.<br /><br />
-					Toddlerpillar holders who submitted their wallets via discord before May 10 can mint 1 FREE Chimera during our presale or 2 FREE Chimeras if they hold 9+ Toddlers.<br /><br />
 					Only wallets holding Toddlers can mint during Chimera presale. <a style={{ textDecoration: 'none', color: '#19a8b4', fontWeight: '700' }} href="https://opensea.io/collection/toddlerpillars" target="_blank">Adopt a Toddler!</a> Presale runs May 16 - May 22. Public sale starts May 23. <span style={{ fontWeight: 'bold' }}>Chimera mint price: 0.03 ETH.</span></Typography>
 					{/* <SaleCard
 						mintOnClick={(mintInfo) => {
