@@ -118,7 +118,7 @@ const Roadmap = () => {
 					</Box>
 					<Box>
 						<Typography variant='heading2' sx={sx.subtitle}>Chimerapillars: Our Companion Collection</Typography>
-						<Typography variant='text'>The Chimerapillars are being summoned to save humanity from the Toddlerpillar apocalypse! All Toddlerpillar holders will get a free Chimerapillar mint if they submitted their wallet on our discord by May 11th! Holders with 9+ Toddlers will get 2 free Chimeras. The Chimera presale runs from May 16 - 22 and the public sale starts on May 23. Mint price: 0.03 ETH</Typography>
+						<Typography variant='text'>8888 Chimerapillars with 888 traits have been summoned to save humanity from the Toddlerpillar apocalypse. Madness and mayhem have plagued the world since the 6 armed bebehs tore a hole in our reality! Can the Chimerapillars rescue their infantile cousins from the corruption of the lonely pillar? You can mint a Chimerapillar for 0.03 ETH on our website: <a style={{ textDecoration: 'none', color: '#19a8b4', fontWeight: '700' }} href="https://chimerapillars.com" target="_blank">https://chimerapillars.com</a></Typography>
 					</Box>
 					<Box>
 						<Typography variant='heading2' sx={sx.subtitle}>Custom Blank Toddlerpillar Toy Contest & Gallery Exhibitions</Typography>
