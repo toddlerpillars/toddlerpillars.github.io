@@ -109,16 +109,32 @@ const Roadmap = () => {
 			<Box sx={sx.textContainer}>
 				<Box sx={sx.textCol}>
 					<Box>
-						<Typography variant='heading2' sx={sx.subtitle}>Toddlerpillar Merch on Maddies</Typography>
-						<Typography variant='text'>
-						We have released a range of Toddlerpillars Merch on <a style={{ textDecoration: 'none', color: '#19a8b4', fontWeight: '700' }} href="https://maddies.co/official/toddlerpillars/" target="_blank">Maddies.co</a> that feature some of 
-						our most popular traits. All parents can also set up their own stores on Maddies and sell merch with images of their own Toddlerpillars. Maddies use 6300 x 6300 pixel files of your Toddlerpillars for their merch. You can also 
-						connect your wallets to the official Toddlerpillar website and download <a style={{ textDecoration: 'none', color: '#19a8b4', fontWeight: '700' }} href="/#/collections" target="_blank">your high res Toddlerpillars</a>, to which you have full commercial rights.
-						</Typography>
-					</Box>
-					<Box>
 						<Typography variant='heading2' sx={sx.subtitle}>Chimerapillars: Our Companion Collection</Typography>
 						<Typography variant='text'>8888 Chimerapillars with 888 traits have been summoned to save humanity from the Toddlerpillar apocalypse. Madness and mayhem have plagued the world since the 6 armed bebehs tore a hole in our reality! Can the Chimerapillars rescue their infantile cousins from the corruption of the lonely pillar? You can mint a Chimerapillar for 0.03 ETH on our website: <a style={{ textDecoration: 'none', color: '#19a8b4', fontWeight: '700' }} href="https://chimerapillars.com" target="_blank">https://chimerapillars.com</a></Typography>
+					</Box>
+					<Box>
+						<Typography variant='heading2' sx={sx.subtitle}>Pillarian Art Museum in the Metaverse</Typography>
+						<Typography variant='text'>We're collecting Toddlerpillar and Chimerapillar inspired NFTs by some of the most
+						talented artists and animators in Web 3 in our <a style={{ textDecoration: 'none', color: '#19a8b4', fontWeight: '700' }} href="https://opensea.io/Pillarverse-Art-Vault" target="_blank">Pillaverse Art Vault</a>. 
+						We will build a Pillarian Art Museum in the metaverse to permanently showcase this collection. Each artwork is like a portal to a parallel pillarverse, governed by the imagination of it's creator. 
+						We encourage all creatives to participate in our project by expanding upon the Pillarian multiverse with full creative licence.</Typography>
+					</Box>
+					<Box>
+						<Typography variant='heading2' sx={sx.subtitle}>The Third and Final Chapter of The Toddlerpillar Lore</Typography>
+						<Typography variant='text'>We will release the third chapter of our <a style={{ textDecoration: 'none', color: '#19a8b4', fontWeight: '700' }} href="/#/mythology" target="_blank">lore</a> after the Chimerapillar mint.
+						Then we will begin the process of storyboarding for the animated series we are aiming to produce.</Typography>
+					</Box>
+				</Box>
+				<Box sx={sx.textCol}>
+					<Box>
+						<Typography variant='heading2' sx={sx.subtitle}>1/1 & Limited Edition Airdrops for Holders</Typography>
+						<Typography variant='text'>Tim Molloy will continue creating themed
+						1/1 Toddlerpillar NFTs and limited edition Toddlerpillar NFTs.
+						These NFTs are only available to verified Toddlerpillar  holders on
+						our <a style={{ textDecoration: 'none', color: '#19a8b4', fontWeight: '700' }} href="https://discord.gg/toddlerpillars" target="_blank">Discord</a>. People with 9 or more Toddlerpillars (The Nines) can
+						enter a weekly contest to win themed 1/1 Toddlerpillars & members who
+						participate in Discord activities can earn larval gems, which can be
+						exchanged for limited edition NFTs in our Discord shop.</Typography>
 					</Box>
 					<Box>
 						<Typography variant='heading2' sx={sx.subtitle}>Custom Blank Toddlerpillar Toy Contest & Gallery Exhibitions</Typography>
@@ -135,39 +151,6 @@ const Roadmap = () => {
 						from each category to win an 8” hand painted designer
 						Toddlerpillar toy, created by IsmToys and 10 runners up will be
 						selected to win Toddlerpillar NFTs.</Typography>
-					</Box>
-				</Box>
-				<Box sx={sx.textCol}>
-					<Box>
-						<Typography variant='heading2' sx={sx.subtitle}>Metaverse Exhibitions of Pillar Derivative Art</Typography>
-						<Typography variant='text'>We're collecting our favourite Toddlerpillar and Chimerapillar derivatives in a 
-						vault (wallet) and will be organising a series of huge exhibitions in the metaverse to celebrate the 
-						extraordinary artists in our community. You can <a style={{ textDecoration: 'none', color: '#19a8b4', fontWeight: '700' }} href="https://opensea.io/Toddlerpillar-Chimerapillar-Derivative-Vault" target="_blank">view our growing collection of derivatives in our vault</a>.</Typography>
-					</Box>
-					<Box>
-						<Typography variant='heading2' sx={sx.subtitle}>Toddlerpillar Toys</Typography>
-						<Typography variant='text'>We will work with various toy companies to
-						create both limited edition & open edition Toddlerpillar toys. These
-						will include full figure vinyl Toddlerpillars as well as toys of
-						specific traits. Some of these toys will be limited editions that are
-						exclusively available to Toddlerpillar parents and others will be open
-						editions that are widely available, with a significant discount for
-						Toddlerpillar parents.</Typography>
-					</Box>
-					<Box>
-						<Typography variant='heading2' sx={sx.subtitle}>1/1 & Limited Edition Airdrops for Holders</Typography>
-						<Typography variant='text'>Tim Molloy will continue creating themed
-						1/1 Toddlerpillar NFTs and limited edition Toddlerpillar NFTs.
-						These NFTs are only available to verified Toddlerpillar  holders on
-						our <a style={{ textDecoration: 'none', color: '#19a8b4', fontWeight: '700' }} href="https://discord.gg/toddlerpillars" target="_blank">Discord</a>. People with 9 or more Toddlerpillars (The Nines) can
-						enter a weekly contest to win themed 1/1 Toddlerpillars & members who
-						participate in Discord activities can earn larval gems, which can be
-						exchanged for limited edition NFTs in our Discord shop.</Typography>
-					</Box>
-					<Box>
-						<Typography variant='heading2' sx={sx.subtitle}>The Third and Final Chapter of The Toddlerpillar Lore</Typography>
-						<Typography variant='text'>We will release the third chapter of our <a style={{ textDecoration: 'none', color: '#19a8b4', fontWeight: '700' }} href="/#/mythology" target="_blank">lore</a> after the Chimerapillar mint.
-						Then we will begin the process of storyboarding for the animated series we are aiming to produce.</Typography>
 					</Box>
 				</Box>
 			</Box>
@@ -195,14 +178,11 @@ const Roadmap = () => {
 				<Box sx={sx.textCol}>
 					<Box>
 						<Typography variant='heading2' sx={sx.subtitle}>Multimedia Graphic Novel About Toddlerpillars & Chimerapillars Lore</Typography>
-						<Typography variant='text'>Our multimedia graphic novel will
-						explore the origin story of Toddlerpillars and Chimerapillars
-						with over 100 pages. This publication will expand upon our lore
-						with a detailed narrative, wonderfully strange illustrated
-						panels, full page spreads and a number of animated panels with
-						audio. This will only be available to people who hold both a
-						Toddlerpillar and a Chimerapillar. We also hope to release the
-						graphic novel in print at a later date through a publisher.</Typography>
+						<Typography variant='text'>Our multimedia graphic novel will explore the psychedelic dystopian story 
+						of the Toddlerpillars and Chimerapillars with 100s of highly detailed artworks, 
+						including a number of animations. This online publication will be available on our 
+						website for everyone to enjoy, but only Toddlerpillar and Chimerapillar holders will 
+						get free NFTs of the individual artworks and animations. Our long term 'pillar holders will essentially come to own pieces of the Graphic Novel content over time, as they are released as free mints. We also hope to release the graphic novel in print at a later date through a publisher.</Typography>
 					</Box>
 				</Box>
 
@@ -212,6 +192,16 @@ const Roadmap = () => {
 			<Divider titleDivider />
 			<Box sx={sx.textContainer}>
 				<Box sx={sx.textCol}>
+					<Box>
+						<Typography variant='heading2' sx={sx.subtitle}>Toddlerpillar Toys</Typography>
+						<Typography variant='text'>We will work with various toy companies to
+						create both limited edition & open edition Toddlerpillar toys. These
+						will include full figure vinyl Toddlerpillars as well as toys of
+						specific traits. Some of these toys will be limited editions that are
+						exclusively available to Toddlerpillar parents and others will be open
+						editions that are widely available, with a significant discount for
+						Toddlerpillar parents.</Typography>
+					</Box>
 					<Box>
 						<Typography variant='heading2' sx={sx.subtitle}>Long Term Vision of An Animated Series</Typography>
 						<Typography variant='text'>
