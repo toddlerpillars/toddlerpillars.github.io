@@ -104,7 +104,7 @@ const Roadmap = () => {
 
 	return (
 		<>
-			<Typography variant='heading1' sx={sx.title}>EARLY 2022</Typography>
+			<Typography variant='heading1' sx={sx.title}>2022</Typography>
 			<Divider titleDivider />
 			<Box sx={sx.textContainer}>
 				<Box sx={sx.textCol}>
@@ -113,6 +113,25 @@ const Roadmap = () => {
 						<Typography variant='text'>8888 Chimerapillars with 888 traits have been summoned to save humanity from the Toddlerpillar apocalypse. Madness and mayhem have plagued the world since the 6 armed bebehs tore a hole in our reality! Can the Chimerapillars rescue their infantile cousins from the corruption of the lonely pillar? You can mint a Chimerapillar for 0.03 ETH on our website: <a style={{ textDecoration: 'none', color: '#19a8b4', fontWeight: '700' }} href="https://chimerapillars.com" target="_blank">https://chimerapillars.com</a></Typography>
 					</Box>
 					<Box>
+						<Typography variant='heading2' sx={sx.subtitle}>Chimerapillar Trait Merge and Burn</Typography>
+						<Typography variant='text'>Holders with multiple Chimerapillars will be able to select their favourite 
+						traits from two NFTs and merge them into one, while burning the other NFT with the rejected traits. This 
+						will enable holders to customise their Chimerapillars and improve their rarity, while decreasing the supply 
+						& collection size.</Typography>
+					</Box>
+					<Box>
+						<Typography variant='heading2' sx={sx.subtitle}>Multimedia Graphic Novel & 100s of Airdrops for Holders</Typography>
+						<Typography variant='text'>Our multimedia graphic novel will explore the psychedelic dystopian story of the Toddlerpillars and Chimerapillars with over 100 pages of highly detailed art, including a number of animations. This online publication will be available on our website for everyone to enjoy, but only our holders will receive free NFTs of the individual artworks and animations with full commercial rights and unlockable high-resolution files. 100s of unique artworks will be airdropped over time, but the number you receive will depend on how many Pillars you hold:
+						<ul>
+							<li>Receive 25% of our airdrops if you hold 1 Toddlerpillar & 1 Chimerapillar</li>
+							<li>Receive 50% of our airdrops if you hold 2 Toddlerpillars & 2 Chimerapillars</li>
+							<li>Receive 75% of our airdrops if you hold 3 Toddlerpillars & 3 Chimerapillars</li>
+							<li>Receive 100% of our airdrops if you hold 4 Toddlerpillars & 4 Chimerapillars</li>
+						</ul>We also hope to release the graphic novel in print at a later date through a publisher.</Typography>
+					</Box>
+				</Box>
+				<Box sx={sx.textCol}>
+					<Box>
 						<Typography variant='heading2' sx={sx.subtitle}>Pillarian Art Museum in the Metaverse</Typography>
 						<Typography variant='text'>We're collecting Toddlerpillar and Chimerapillar inspired NFTs by some of the most
 						talented artists and animators in Web 3 in our <a style={{ textDecoration: 'none', color: '#19a8b4', fontWeight: '700' }} href="https://opensea.io/Pillarverse-Art-Vault" target="_blank">Pillaverse Art Vault</a>. 
@@ -120,21 +139,11 @@ const Roadmap = () => {
 						We encourage all creatives to participate in our project by expanding upon the Pillarian multiverse with full creative licence.</Typography>
 					</Box>
 					<Box>
-						<Typography variant='heading2' sx={sx.subtitle}>The Third and Final Chapter of The Toddlerpillar Lore</Typography>
-						<Typography variant='text'>We will release the third chapter of our <a style={{ textDecoration: 'none', color: '#19a8b4', fontWeight: '700' }} href="/#/mythology" target="_blank">lore</a> after the Chimerapillar mint.
-						Then we will begin the process of storyboarding for the animated series we are aiming to produce.</Typography>
-					</Box>
-				</Box>
-				<Box sx={sx.textCol}>
-					<Box>
-						<Typography variant='heading2' sx={sx.subtitle}>1/1 & Limited Edition Airdrops for Holders</Typography>
-						<Typography variant='text'>Tim Molloy will continue creating themed
-						1/1 Toddlerpillar NFTs and limited edition Toddlerpillar NFTs.
-						These NFTs are only available to verified Toddlerpillar  holders on
-						our <a style={{ textDecoration: 'none', color: '#19a8b4', fontWeight: '700' }} href="https://discord.gg/toddlerpillars" target="_blank">Discord</a>. People with 9 or more Toddlerpillars (The Nines) can
-						enter a weekly contest to win themed 1/1 Toddlerpillars & members who
-						participate in Discord activities can earn larval gems, which can be
-						exchanged for limited edition NFTs in our Discord shop.</Typography>
+						<Typography variant='heading2' sx={sx.subtitle}>1/1 & Limited Edition Airdrops for Holders on Discord</Typography>
+						<Typography variant='text'>Tim Molloy will continue creating 1/1 hero & villian themed Pillar NFTs and 
+						limited edition Pillar NFTs. Holders with 9 or more Toddlerpillars or Chimerapillars (The Nines) can enter a 
+						weekly draw to win themed 1/1 NFTs & holders who participate in Discord activities can earn larval gems, 
+						which can be exchanged for limited edition NFTs in our Discord shop.</Typography>
 					</Box>
 					<Box>
 						<Typography variant='heading2' sx={sx.subtitle}>Custom Blank Toddlerpillar Toy Contest & Gallery Exhibitions</Typography>
@@ -149,41 +158,16 @@ const Roadmap = () => {
 						also be available for digital artists to customise for the
 						digital art category of our contest. An artist will be selected
 						from each category to win an 8” hand painted designer
-						Toddlerpillar toy, created by IsmToys and 10 runners up will be
-						selected to win Toddlerpillar NFTs.</Typography>
+						Toddlerpillar toy, created by IsmToys and 20 runners up will be selected to win Toddlerpillar & Chimerapillar NFTs.</Typography>
 					</Box>
 				</Box>
 			</Box>
-			<Box id='earlyMidSection' />
-			<Divider style={sx.divider} />
-			<Typography variant='heading1' sx={sx.title}>MID-LATE 2022</Typography>
-			<Divider titleDivider />
 			<Box sx={sx.textContainer}>
 				<Box sx={sx.textCol}>
-					<Box>
-						<Typography variant='heading2' sx={sx.subtitle}>Chimerapillar Trait Merge and Burn</Typography>
-						<Typography variant='text'>Holders with multiple Chimerapillars will be able to select their favourite 
-						traits from two NFTs and merge them into one, while burning the other NFT with the rejected traits. This 
-						will enable holders to customise their Chimerapillars and improve their rarity, while decreasing the supply 
-						& collection size.</Typography>
-					</Box>
-					<Box>
-						<Typography variant='heading2' sx={sx.subtitle}>Toddlerpillar Meetups in Australia & USA</Typography>
-						<Typography variant='text'>We'll arrange three large gatherings of Toddlerpillar token holders for 2022.
-						The first will take place in Melbourne, Australia, the second in Los Angeles, USA and the third at
-						Superchief Gallery NFT in NYC, USA. These events will provide a wonderful opportunity for community
-						members to get to know each other in real life and discuss future plans for all things Toddlerpillar.</Typography>
-					</Box>
+					
 				</Box>
 				<Box sx={sx.textCol}>
-					<Box>
-						<Typography variant='heading2' sx={sx.subtitle}>Multimedia Graphic Novel About Toddlerpillars & Chimerapillars Lore</Typography>
-						<Typography variant='text'>Our multimedia graphic novel will explore the psychedelic dystopian story 
-						of the Toddlerpillars and Chimerapillars with 100s of highly detailed artworks, 
-						including a number of animations. This online publication will be available on our 
-						website for everyone to enjoy, but only Toddlerpillar and Chimerapillar holders will 
-						get free NFTs of the individual artworks and animations. Our long term 'pillar holders will essentially come to own pieces of the Graphic Novel content over time, as they are released as free mints. We also hope to release the graphic novel in print at a later date through a publisher.</Typography>
-					</Box>
+					
 				</Box>
 
 			</Box>
