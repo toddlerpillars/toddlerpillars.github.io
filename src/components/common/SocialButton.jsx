@@ -33,7 +33,7 @@ const CONFIG = {
 		image: email,
 	},
 	discord: {
-		url: 'https://discord.gg/toddlerpillars',
+		url: 'https://discord.gg/pillars',
 		image: discord,
 	},
 };

@@ -120,13 +120,14 @@ const Roadmap = () => {
 						& collection size.</Typography>
 					</Box>
 					<Box>
-						<Typography variant='heading2' sx={sx.subtitle}>Multimedia Graphic Novel & 100s of Airdrops for Holders</Typography>
-						<Typography variant='text'>Our multimedia graphic novel will explore the psychedelic dystopian story of the Toddlerpillars and Chimerapillars with over 100 pages of highly detailed art, including a number of animations. This online publication will be available on our website for everyone to enjoy, but only our holders will receive free NFTs of the individual artworks and animations with full commercial rights and unlockable high-resolution files. 100s of unique artworks will be airdropped over time, but the number you receive will depend on how many Pillars you hold:
+						<Typography variant='heading2' sx={sx.subtitle}>Multimedia Graphic Novel & 400+ Airdrops for Holders</Typography>
+						<Typography variant='text'>Our multimedia graphic novel will explore the psychedelic dystopian story of the Toddlerpillars and Chimerapillars with over 100 pages of highly detailed art, including a number of animations. This online publication will be available on our website for everyone to enjoy, but only our holders will receive free NFTs of the individual artworks and animations with full commercial rights and unlockable hi-res files. <span style={{ fontFamily: 'roboto-bold'}}>400+ unique artworks</span> will be <span style={{ fontFamily: 'roboto-bold'}}>airdropped</span> to our holders over the next few years:
 						<ul>
-							<li>Receive 25% of our airdrops if you hold 1 Toddlerpillar & 1 Chimerapillar</li>
-							<li>Receive 50% of our airdrops if you hold 2 Toddlerpillars & 2 Chimerapillars</li>
-							<li>Receive 75% of our airdrops if you hold 3 Toddlerpillars & 3 Chimerapillars</li>
-							<li>Receive 100% of our airdrops if you hold 4 Toddlerpillars & 4 Chimerapillars</li>
+							<li>100+ airdrops for wallets with 1 Chimera & 1 Toddler</li>
+							<li>200+ airdrops for wallets with 2 Chimeras & 2 Toddlers</li>
+							<li>300+ airdrops for wallets with 3 Toddlers & 3 Chimeras</li>
+							<li>400+ airdrops for wallets with 4 Toddlers & 4 Chimeras</li>
+							<li><span style={{ fontFamily: 'roboto-bold'}}>ULTRA RARE</span> airdrops for wallets with 9 Chimeras & 9 Toddlers</li>
 						</ul>We also hope to release the graphic novel in print at a later date through a publisher.</Typography>
 					</Box>
 				</Box>
