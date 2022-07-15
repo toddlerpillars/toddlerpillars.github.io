@@ -121,14 +121,17 @@ const Roadmap = () => {
 					</Box>
 					<Box>
 						<Typography variant='heading2' sx={sx.subtitle}>Multimedia Graphic Novel & 400+ Airdrops for Holders</Typography>
-						<Typography variant='text'>Our multimedia graphic novel will explore the psychedelic dystopian story of the Toddlerpillars and Chimerapillars with over 100 pages of highly detailed art, including a number of animations. This online publication will be available on our website for everyone to enjoy, but only our holders will receive free NFTs of the individual artworks and animations with full commercial rights and unlockable hi-res files. <span style={{ fontFamily: 'roboto-bold'}}>400+ unique artworks</span> will be <span style={{ fontFamily: 'roboto-bold'}}>airdropped</span> to our holders over the next few years:
-						<ul>
-							<li>100+ airdrops for wallets with 1 Chimera & 1 Toddler</li>
-							<li>200+ airdrops for wallets with 2 Chimeras & 2 Toddlers</li>
-							<li>300+ airdrops for wallets with 3 Toddlers & 3 Chimeras</li>
-							<li>400+ airdrops for wallets with 4 Toddlers & 4 Chimeras</li>
-							<li><span style={{ fontFamily: 'roboto-bold'}}>ULTRA RARE</span> airdrops for wallets with 9 Chimeras & 9 Toddlers</li>
-						</ul>We also hope to release the graphic novel in print at a later date through a publisher.</Typography>
+						<Typography variant='text'>Our multimedia graphic novel will explore the psychedelic dystopian story of the Toddlerpillars and Chimerapillars with over 100 pages of highly detailed art, including a number of animations. This online publication will be available on our website for everyone to enjoy, but only our holders will receive free NFTs of the individual artworks and animations with full commercial rights and unlockable hi-res files. Over <span style={{ fontFamily: 'roboto-bold'}}>400 unique artworks</span> will be airdropped to our holders over the next few years:
+						<i><br />
+				• 20% of airdrops - Hold 1 Chimera & 1 Toddler
+				<br />
+				• 40% of airdrops - Hold 2 Chimeras & 2 Toddlers
+				<br />
+				• 60% of airdrops - Hold 3 Chimeras & 3 Toddlers
+				<br />
+				• 80% of airdrops - Hold 4 Chimeras & 4 Toddlers
+				<br />
+				• 100% of airdrops - Hold 9 Chimeras & 9 Toddlers<br /></i>We also hope to release the graphic novel in print at a later date through a publisher.</Typography>
 					</Box>
 				</Box>
 				<Box sx={sx.textCol}>

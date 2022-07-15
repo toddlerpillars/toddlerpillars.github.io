@@ -250,14 +250,17 @@ const Banner = () => {
 
 					<Typography variant='text' sx={{ ...sx.text1, mb: 2 }}>{HEADER2_TEXT}</Typography>
 					
-					<Typography variant='text' sx={{ ...sx.text1, mb: 2 }}>Over 400 <span style={{ fontFamily: 'roboto-bold'}}>unique artworks</span> from our graphic novel will be <span style={{ fontFamily: 'roboto-bold'}}>airdropped</span> to our holders over the next few years with unlockable hi-res files & commercial rights:
-					<ul>
-						<li>100+ airdrops for wallets with 1 Chimera & 1 Toddler</li>
-						<li>200+ airdrops for wallets with 2 Chimeras & 2 Toddlers</li>
-						<li>300+ airdrops for wallets with 3 Toddlers & 3 Chimeras</li>
-						<li>400+ airdrops for wallets with 4 Toddlers & 4 Chimeras</li>
-						<li><span style={{ fontFamily: 'roboto-bold'}}>ULTRA RARE</span> airdrops for wallets with 9 Chimeras & 9 Toddlers</li>
-					</ul></Typography>
+					<Typography variant='text' sx={{ ...sx.text1, mb: 2 }}>Over <span style={{ fontFamily: 'roboto-bold'}}>400 unique artworks</span> from our graphic novel will be <span style={{ fontFamily: 'roboto-bold'}}>airdropped</span> to holders over the next few years with hi-res files & commercial rights:
+					<i><br />
+				• 20% of airdrops - Hold 1 Chimera & 1 Toddler
+				<br />
+				• 40% of airdrops - Hold 2 Chimeras & 2 Toddlers
+				<br />
+				• 60% of airdrops - Hold 3 Chimeras & 3 Toddlers
+				<br />
+				• 80% of airdrops - Hold 4 Chimeras & 4 Toddlers
+				<br />
+				• 100% of airdrops - Hold 9 Chimeras & 9 Toddlers</i></Typography>
 
 					{/* {!mainSaleStarted
 						&& (
