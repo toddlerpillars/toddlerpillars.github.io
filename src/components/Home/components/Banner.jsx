@@ -252,15 +252,15 @@ const Banner = () => {
 					
 					<Typography variant='text' sx={{ ...sx.text1, mb: 2 }}>Over <span style={{ fontFamily: 'roboto-bold'}}>400 unique artworks</span> from our graphic novel will be <span style={{ fontFamily: 'roboto-bold'}}>airdropped</span> to holders over the next few years with hi-res files & commercial rights:
 					<i><br />
-				• 20% of airdrops - Hold 1 Chimera & 1 Toddler
+				• 1 Chimera + 1 Toddler = 80 airdrops
 				<br />
-				• 40% of airdrops - Hold 2 Chimeras & 2 Toddlers
+				• 2 Chimeras + 2 Toddlers = 160 airdrops
 				<br />
-				• 60% of airdrops - Hold 3 Chimeras & 3 Toddlers
+				• 3 Chimeras + 3 Toddlers = 240 airdrops
 				<br />
-				• 80% of airdrops - Hold 4 Chimeras & 4 Toddlers
+				• 6 Chimeras + 6 Toddlers = 320 airdrops
 				<br />
-				• 100% of airdrops - Hold 9 Chimeras & 9 Toddlers</i></Typography>
+				• 9 Chimeras + 9 Toddlers = 400 airdrops</i></Typography>
 
 					{/* {!mainSaleStarted
 						&& (

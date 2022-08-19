@@ -123,15 +123,15 @@ const Roadmap = () => {
 						<Typography variant='heading2' sx={sx.subtitle}>Multimedia Graphic Novel & 400+ Airdrops for Holders</Typography>
 						<Typography variant='text'>Our multimedia graphic novel will explore the psychedelic dystopian story of the Toddlerpillars and Chimerapillars with over 100 pages of highly detailed art, including a number of animations. This online publication will be available on our website for everyone to enjoy, but only our holders will receive free NFTs of the individual artworks and animations with full commercial rights and unlockable hi-res files. Over <span style={{ fontFamily: 'roboto-bold'}}>400 unique artworks</span> will be airdropped to our holders over the next few years:
 						<i><br />
-				• 20% of airdrops - Hold 1 Chimera & 1 Toddler
+						• 1 Chimera + 1 Toddler = 80 airdrops
 				<br />
-				• 40% of airdrops - Hold 2 Chimeras & 2 Toddlers
+				• 2 Chimeras + 2 Toddlers = 160 airdrops
 				<br />
-				• 60% of airdrops - Hold 3 Chimeras & 3 Toddlers
+				• 3 Chimeras + 3 Toddlers = 240 airdrops
 				<br />
-				• 80% of airdrops - Hold 4 Chimeras & 4 Toddlers
+				• 6 Chimeras + 6 Toddlers = 320 airdrops
 				<br />
-				• 100% of airdrops - Hold 9 Chimeras & 9 Toddlers<br /></i>We also hope to release the graphic novel in print at a later date through a publisher.</Typography>
+				• 9 Chimeras + 9 Toddlers = 400 airdrops<br /></i>We also hope to release the graphic novel in print at a later date through a publisher.</Typography>
 					</Box>
 				</Box>
 				<Box sx={sx.textCol}>
