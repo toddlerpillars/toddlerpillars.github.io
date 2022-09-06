@@ -172,7 +172,7 @@ const DISCORD_TEXT = 'Join our delightfully strange discord family!';
 
 const IMAGES = [tp1, cp1, tp2, cp2, tp3, cp3, tp4, cp4, tp5, cp5, tp6, cp6];
 
-const url = 'https://discord.gg/pillars';
+const url = 'https://discord.gg/nHXHE2TqYa';
 
 const bold = (children) => <Box component='span' sx={{ fontFamily: 'roboto-bold' }}>{children}</Box>;
 

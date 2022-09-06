@@ -38,7 +38,7 @@ const sx = {
 
 const TEXT = 'Join our delightfully strange discord family!';
 
-const url = 'https://discord.gg/pillars';
+const url = 'https://discord.gg/nHXHE2TqYa';
 
 const Discord = () => (
 	<>
