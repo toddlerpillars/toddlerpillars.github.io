@@ -11,10 +11,6 @@ const Home = () => {
 		window.scrollTo(0, 0);
 	}, []);
 
-
-	console.log('HOME DEV LOG')
-
-
 	return (
 		<>
 			<Banner />
