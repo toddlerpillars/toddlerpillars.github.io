@@ -41,8 +41,8 @@ const JON = [
 	+ 'art. Starting out as an artist with a simple website showcasing his art, Jon '
 	+ 'grew that website into an artistic community, gaining a respectable global '
 	+ 'following. He built on this by publishing art books and curating group '
-	+ 'exhibitions in the United States before reassessing his pursuits and co-'
-	+ 'founding the Beinart Gallery with Corinne Leita in Melbourne, Australia.',
+	+ 'exhibitions in the United States before reassessing his pursuits and '
+	+ 'founding the Beinart Gallery in Melbourne, Australia.',
 	'The Toddlerpillar NFT project marks Jon\'s return to one of his earliest artistic '
 	+ 'creations with the mass-birthing of their digital descendants on the Ethereum blockchain.'];
 

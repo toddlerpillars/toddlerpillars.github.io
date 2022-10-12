@@ -51,7 +51,7 @@ const HISTORY = [
 	+ ' viral, reaching all corners of the internet. They were also exhibited in a number'
 	+ ' of galleries and museums.',
 	'In 2011 Jon moved on from this series of sculptures to focus on his oil'
-	+ ' paintings. In 2016 he opened Beinart Gallery with Corinne Leita in Melbourne'
+	+ ' paintings. In 2016 he opened Beinart Gallery in Melbourne'
 	+ ' Australia. This NFT project marks Jon\'s return to one of his earliest artistic'
 	+ ' creations, the Toddlerpillars, in a partnership with the incredible illustrator, Tim Molloy.'];
 

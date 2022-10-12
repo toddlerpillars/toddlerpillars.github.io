@@ -104,7 +104,7 @@ const Roadmap = () => {
 
 	return (
 		<>
-			<Typography variant='heading1' sx={sx.title}>2022</Typography>
+			<Typography variant='heading1' sx={sx.title}>2022 - Early 2023</Typography>
 			<Divider titleDivider />
 			<Box sx={sx.textContainer}>
 				<Box sx={sx.textCol}>
@@ -121,7 +121,7 @@ const Roadmap = () => {
 					</Box>
 					<Box>
 						<Typography variant='heading2' sx={sx.subtitle}>Multimedia Graphic Novel & 400+ Airdrops for Holders</Typography>
-						<Typography variant='text'>Our multimedia graphic novel will explore the psychedelic dystopian story of the Toddlerpillars and Chimerapillars with over 100 pages of highly detailed art, including a number of animations. This online publication will be available on our website for everyone to enjoy, but only our holders will receive free NFTs of the individual artworks and animations with full commercial rights and unlockable hi-res files. Over <span style={{ fontFamily: 'roboto-bold'}}>400 unique artworks</span> will be airdropped to our holders over the next few years:
+						<Typography variant='text'>Our multimedia graphic novel will explore the psychedelic dystopian story of the Toddlerpillars and Chimerapillars with over 100 pages of highly detailed art, including a number of animations. This online publication will be available on our website for everyone to enjoy, but only our holders will receive free NFTs of the individual artworks and animations with full commercial rights and unlockable hi-res files. <span style={{ fontFamily: 'roboto-bold'}}>400 unique artworks</span> will be airdropped to our holders over the next few years:
 						<i><br />
 						• 1 Chimera + 1 Toddler = 80 airdrops
 				<br />
@@ -176,7 +176,7 @@ const Roadmap = () => {
 
 			</Box>
 			<Divider style={sx.divider} />
-			<Typography variant='heading1' sx={sx.title}>2023 AND BEYOND</Typography>
+			<Typography variant='heading1' sx={sx.title}>Mid 2023 & Beyond</Typography>
 			<Divider titleDivider />
 			<Box sx={sx.textContainer}>
 				<Box sx={sx.textCol}>

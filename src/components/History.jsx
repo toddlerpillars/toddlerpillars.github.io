@@ -83,7 +83,7 @@ const TEXT4 = [
 	'While Jon\'s profile had grown with the notoriety of his Toddlerpillars, images of them were frequently shared online with no credit, so most '
 	+ 'people who encountered Toddlerpillars had no idea who had created them. While this bothered Jon at the beginning, he gradually came to accept '
 	+ 'that his babies had grown up and left home and had taken on a life of their own.',
-	'In 2011 Jon moved on from this series of sculptures to focus on his oil paintings and in 2016 he opened Beinart Gallery with Corinne Leita in '
+	'In 2011 Jon moved on from this series of sculptures to focus on his oil paintings and in 2016 he opened Beinart Gallery in '
 	+ 'Melbourne Australia. This NFT project marks Jon\'s return to one of his earliest artistic creations, the Toddlerpillars, in a partnership with the incredible illustrator, Tim Molloy.'];
 
 const History = () => {
